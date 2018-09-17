@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mcanzi.github.io/"
 languageCode = "en-us"
 title = "Massimiliano Canzi"
 description = "Massimiliano Canzi's academic website"
@@ -13,11 +13,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "massimiliano canzi"
     description = "speech perception & ERP | R, Matlab & Praat University of Manchester"
-    logo = "/favicon/image-1.png"
+    logo = "favicon/mcanzi.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
-    accent = "#195E4D" # dark colors do best. original: 386890
-    backgroundColor = "#F6FEFC" # original is f5f5f5
+    accent = "#132030" # dark colors do best. original: 386890
+    backgroundColor = "#E8E8E8" # original is f5f5f5
     font = "Mina" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
