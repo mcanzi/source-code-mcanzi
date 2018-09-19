@@ -22,6 +22,6 @@ __(April 2018 - Present):__ 		Research Assistant. Research assistant for the __N
 __(January 2018 - Present)__:	Psycholinguistics Laboratory Assistant. The University of Manchester.
 				Psycholinguistics Laboratory, NG.15
 				Samuel Alexander Building, M13 9PL.
-				Lab director: __Dr Patrycja Strycharczuk__
+				Lab director: __Dr Patrycja Strycharczuk__.
 
 

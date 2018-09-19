@@ -1,5 +1,5 @@
 ---
-title: "the effect of lexical frequency on vowel phonation as a correlate of t glottaling."
+title: "the effect of lexical frequency on vowel phonation as a correlate of t glottaling"
 tags: ["egg", "phonetics", "frequency"]
 weight: 2
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "the forensic implications of comparing soft, neutral and loud speech."
+title: "the forensic implications of comparing soft, neutral and loud speech"
 tags: ["acoustics", "phonetics", "forensics"]
 weight: 3
 draft: false
@@ -16,7 +16,7 @@ __2018__				Massimiliano Canzi
 				_A quantitative analysis of inter- and intra- speaker variation of F0, F1, F2 					and vowel duration in soft, neutral and loud speech in Italian._
 				Poster presented at the Colloquium of the British Association of 						Academic Phoneticians (BAAP) in Canterbury, UK. 12-14th April, 2018.
 				
-## Abstract:
+## Abstract
 
 The current research focuses on the variation of acoustic and phonetic parameters including mean F0, F1, F2, speech rate and vowel duration in soft, neutral and loud speech throughout the whole Italian vowel monophthong inventory. Considerable intra–speaker variation from soft to loud speech is expected. Furthermore, we expect considerable inter-speaker variation to be conditioned by speech mode. Both inter- vs –intra-speaker differences are considered extremely relevant in the forensic context, as they are known to play a role in speaker identification and recognition (Remez et al. 1997). The study presents a bigger picture of the effect of speech-mode change throughout a whole vowel inventory, compared to existing studies on forensic phonetic analysis of loud speech which mainly focused on one or few vowels (e.g. Elliot 2000).
 

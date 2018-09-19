@@ -16,9 +16,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     logo = "favicon/mcanzi.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
-    accent = "#132030" # dark colors do best. original: 386890
-    backgroundColor = "#E8E8E8" # original is f5f5f5
-    font = "Mina" # should match the name on Google Fonts!
+    accent = "#1F1F1F" # dark colors do best. original: 386890
+    backgroundColor = "#FFFDF8" # original is f5f5f5
+    font = "Lora" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
@@ -32,17 +32,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [[menu.main]]
     url = "/post/"
     name = "about me"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     url = "/project/"
     name = "selected presentations and research"
-    weight = 3
+    weight = 4
     
+[[menu.main]]
+    url = "/news/"
+    name = "news"
+    weight = 2
+
+[[menu.main]]
+    url = "/music/"
+    name = "music"
+    weight = 5
+
 [[menu.main]]
     url = "/tags/"
     name = "tags"
-    weight = 4
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
