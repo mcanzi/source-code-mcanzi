@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [[menu.main]]
     url = "/post/"
-    name = "about me"
+    name = "curriculum vitae"
     weight = 3
 
 [[menu.main]]
@@ -40,8 +40,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
     
 [[menu.main]]
-    url = "/news/"
-    name = "news"
+    url = "/posts/"
+    name = "blog"
     weight = 2
 
 [[menu.main]]

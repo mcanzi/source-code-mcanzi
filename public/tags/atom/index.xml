@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atom on Massimiliano Canzi</title>
+    <link>https://mcanzi.github.io/tags/atom/</link>
+    <description>Recent content in Atom on Massimiliano Canzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcanzi.github.io/tags/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atom: useful packages</title>
+      <link>https://mcanzi.github.io/posts/atom/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcanzi.github.io/posts/atom/</guid>
+      <description>Atom is a powerful open-source text editor with embedded Git control. Atom is unique because of its 7000+ plugins (packages) which are usually license-free and community-built. Atom supports syntax highlighting natively for more than 30 programming languages. The number is esponentially increased when external packages are installed.
+If you have Atom installed, you can search packages simply by opening up a new terminal window and typing apm search keyword</description>
+    </item>
+    
+  </channel>
+</rss>
