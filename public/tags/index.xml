@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Massimiliano Canzi</title>
-    <link>https://mcanzi.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Massimiliano Canzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mcanzi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acoustics</title>
-      <link>https://mcanzi.github.io/tags/acoustics/</link>
+      <link>/tags/acoustics/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/acoustics/</guid>
+      <guid>/tags/acoustics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atom</title>
-      <link>https://mcanzi.github.io/tags/atom/</link>
+      <link>/tags/atom/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/atom/</guid>
+      <guid>/tags/atom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Awards</title>
-      <link>https://mcanzi.github.io/tags/awards/</link>
+      <link>/tags/awards/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/awards/</guid>
+      <guid>/tags/awards/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://mcanzi.github.io/tags/education/</link>
+      <link>/tags/education/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/education/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Egg</title>
-      <link>https://mcanzi.github.io/tags/egg/</link>
+      <link>/tags/egg/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/egg/</guid>
+      <guid>/tags/egg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erp</title>
-      <link>https://mcanzi.github.io/tags/erp/</link>
+      <link>/tags/erp/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/erp/</guid>
+      <guid>/tags/erp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forensics</title>
-      <link>https://mcanzi.github.io/tags/forensics/</link>
+      <link>/tags/forensics/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/forensics/</guid>
+      <guid>/tags/forensics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frequency</title>
-      <link>https://mcanzi.github.io/tags/frequency/</link>
+      <link>/tags/frequency/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/frequency/</guid>
+      <guid>/tags/frequency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ggplot</title>
-      <link>https://mcanzi.github.io/tags/ggplot/</link>
+      <link>/tags/ggplot/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/ggplot/</guid>
+      <guid>/tags/ggplot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matlab</title>
-      <link>https://mcanzi.github.io/tags/matlab/</link>
+      <link>/tags/matlab/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/matlab/</guid>
+      <guid>/tags/matlab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Music</title>
-      <link>https://mcanzi.github.io/tags/music/</link>
+      <link>/tags/music/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/music/</guid>
+      <guid>/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception</title>
-      <link>https://mcanzi.github.io/tags/perception/</link>
+      <link>/tags/perception/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/perception/</guid>
+      <guid>/tags/perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phonetics</title>
-      <link>https://mcanzi.github.io/tags/phonetics/</link>
+      <link>/tags/phonetics/</link>
       <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/phonetics/</guid>
+      <guid>/tags/phonetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Praat</title>
-      <link>https://mcanzi.github.io/tags/praat/</link>
+      <link>/tags/praat/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/praat/</guid>
+      <guid>/tags/praat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://mcanzi.github.io/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://mcanzi.github.io/tags/research/</link>
+      <link>/tags/research/</link>
       <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/research/</guid>
+      <guid>/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://mcanzi.github.io/tags/teaching/</link>
+      <link>/tags/teaching/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/teaching/</guid>
+      <guid>/tags/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://mcanzi.github.io/tags/web/</link>
+      <link>/tags/web/</link>
       <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/tags/web/</guid>
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
     

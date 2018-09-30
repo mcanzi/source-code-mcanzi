@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Massimiliano Canzi</title>
-    <link>https://mcanzi.github.io/tags/music/</link>
+    <link>/tags/music/</link>
     <description>Recent content in Music on Massimiliano Canzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mcanzi.github.io/tags/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Goldfish (LP) by Asami Yamazaki</title>
-      <link>https://mcanzi.github.io/music/asami/</link>
+      <link>/music/asami/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/music/asami/</guid>
+      <guid>/music/asami/</guid>
       <description>Overview tags: lo-fi, ambient, post-rock, noise
 The first LP by the solo project Asami Yamazaki (Massimiliano Canzi) features tracks written between 2013 and 2015. The entire LP was written, played, recorded, mixed and mastered by Massimiliano Canzi with the exception of these tracks:
 Okinawa:
@@ -27,10 +27,10 @@ Massimiliano Canzi: writing, beats, synths, bass, mixing, mastering. Mario Blaco
     
     <item>
       <title>Continental (EP) by Fukushima Sushi</title>
-      <link>https://mcanzi.github.io/music/fukushima/</link>
+      <link>/music/fukushima/</link>
       <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/music/fukushima/</guid>
+      <guid>/music/fukushima/</guid>
       <description> Overview tags: post rock, instrumental rock, stoner, lo-fi, electronic
 Massimiliano Canzi: guitar, vocals (in &amp;lsquo;Nothing&amp;rsquo;) and production
 Mario Blaconà: guitar, vocals
@@ -45,10 +45,10 @@ Tracklist  Concrete
     
     <item>
       <title>Clouds in a Bundle (EP) by mymindasacircuit</title>
-      <link>https://mcanzi.github.io/music/mmaac/</link>
+      <link>/music/mmaac/</link>
       <pubDate>Fri, 10 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/music/mmaac/</guid>
+      <guid>/music/mmaac/</guid>
       <description> Overview tags: chillout, ambient, instrumental, loops
 Massimiliano Canzi: guitars, bass, production, keyboard
 Roland Erulo: guitars, production, keyboard, drums

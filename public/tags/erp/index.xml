@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erp on Massimiliano Canzi</title>
-    <link>https://mcanzi.github.io/tags/erp/</link>
+    <link>/tags/erp/</link>
     <description>Recent content in Erp on Massimiliano Canzi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mcanzi.github.io/tags/erp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/erp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>academic skills</title>
-      <link>https://mcanzi.github.io/2017/09/22/academic-skills/</link>
+      <link>/2017/09/22/academic-skills/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/2017/09/22/academic-skills/</guid>
+      <guid>/2017/09/22/academic-skills/</guid>
       <description>Speech Analysis: Praat (sample script below), Wavesurfer
 Speech Manipulation: Praat, iZotope, Audacity
 ERP/EEG: Matlab, ERPlab/EEGlab
@@ -31,10 +31,10 @@ Sample of R script The following sample of an R project is meant to read data, c
     
     <item>
       <title>information flow order in speech perception</title>
-      <link>https://mcanzi.github.io/project/erp/</link>
+      <link>/project/erp/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mcanzi.github.io/project/erp/</guid>
+      <guid>/project/erp/</guid>
       <description>Overview Aims and Objectives
 • To explore how different levels of speech processing interact with each other to facilitate the understanding of speech.
 • To test experimentally the relative timing of different levels in speech processing.
