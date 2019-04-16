@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perception on Massimiliano Canzi</title>
+    <link>https://mcanzi.github.io/tags/perception/</link>
+    <description>Recent content in perception on Massimiliano Canzi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mcanzi.github.io/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t let me be misunderstood. Exploring early speech perception</title>
+      <link>https://mcanzi.github.io/project/erp/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mcanzi.github.io/project/erp/</guid>
+      <description>The aim of our study is to determine whether phonological information is pro- cessed earlier than semantic information in a feed-forward fashion during perception (McQueen et al. 2009) or whether di􏰁erent levels of speech (e.g. phonological, semantic) can mediate one another during perception and processing (McClelland &amp;amp; Elman 1986). In order to achieve this, we plan to investigate the nature of early event-related potentials (ERP), shifts in electrical poten- tial in the brain as a response to a particular event, to determine whether phonological and lexical features of speech are processed by the brain at di􏰁erent times.</description>
+    </item>
+    
+  </channel>
+</rss>
