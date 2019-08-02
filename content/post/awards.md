@@ -8,6 +8,9 @@ date: 2018-09-14
 
 ## Awards
 
-__2018__	Stefano Coretta, __Massimiliano Canzi__ (joint winners) of  
-				Best Student Abstract submitted to the LAGB (Linguistic 							Association of Great Britain) 2018 conference with the abstract titled:
-				_‘The effect of lexical frequency on vowel phonation as a correlate of /t/-					glottaling’_
+__September 2018__  
+Stefano Coretta, __Massimiliano Canzi__ (joint winners)  
+Best Student Abstract submitted to the LAGB 2018  
+(Linguistic Association of Great Britain)  
+__‘The effect of lexical frequency on vowel phonation__  
+__as a correlate of /t/-glottaling’__.

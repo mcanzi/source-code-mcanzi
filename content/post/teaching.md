@@ -7,21 +7,43 @@ draft: false
 
 ## Teaching experience
 
-__(January 2018 - May 2018):__	Teaching Assistant in __Forensic Linguistics.__
-				The University of Manchester.
-				Course code: _LELA3162_.
-				Course convenor: __Dr Andrea Nini__.
+__(September 2019 - January 2020):__  
+Teaching Assistant (TA) in <span style="color:purple"> **Language, Mind and Brain** </span>.  
+Course convenor: __Dr Wendell Kimper__.  
+*The University of Manchester*. 
+    
+__(September 2019 - January 2020):__  
+TA in <span style="color:purple"> **Handling Data** </span>.  
+Course convenor: __Dr Patrycja Strycharczuk__.  
+*The University of Manchester*. 
 
-__(September 2018 - January 2019):__ Teaching Assistant in __Psycholinguistics.__
-    The University of Manchester. Course convenor: __Dr Thea Cameron-Faulkner__.
+__(January 2019 - May 2019):__  
+TA in <span style="color:purple"> **Sounds of Language** </span>.  
+Course convenor: __Dr Patrycja Strycharczuk__.  
+*The University of Manchester*. 
+    
+__(January 2018 - May 2018):__  
+__(January 2019 - May 2019):__  
+TA in <span style="color:purple"> **Forensic Linguistics** </span>.  
+Course convenor: __Dr Andrea Nini__.  
+*The University of Manchester*. 
+
+__(September 2018 - January 2019):__  
+TA in <span style="color:purple"> **Psycholinguistics** </span>.  
+Course convenor: __Dr Thea Cameron-Faulkner__.  
+*The University of Manchester*. 
 
 ## Work experience
 
-__(April 2018 - Present):__ 		Research Assistant. Research assistant for the __Northern Englishes Project__. The University of Manchester.
+__(January 2018 - September 2019)__:  
+<span style="color:purple"> **Psycholinguistics Laboratory Assistant** </span>.  
+Lab director: __Dr Patrycja Strycharczuk__.  
+*The University of Manchester.*   
+Psycholinguistics Laboratory, NG.15  
+Samuel Alexander Building, M13 9PL.  
 
-__(January 2018 - Present)__:	Psycholinguistics Laboratory Assistant. The University of Manchester.
-				Psycholinguistics Laboratory, NG.15
-				Samuel Alexander Building, M13 9PL.
-				Lab director: __Dr Patrycja Strycharczuk__.
-
-
+__(April 2018 - September 2018):__  
+<span style="color:purple"> **Research Assistant** </span> in the UMRI-funded project __"Beauty is in the ear of__  
+__the beholder: the role of accent in mate choice."__.  
+Dr Tucker Gilman, Dr Patrycja Strycharczuk, Dr Alex Baratta  
+*The University of Manchester.*   
