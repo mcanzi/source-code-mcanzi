@@ -36,8 +36,8 @@ Course convenor: __Dr Thea Cameron-Faulkner__.
 ## Work experience
 
 __(January 2018 - September 2019)__:  
-<span style="color:purple"> **Psycholinguistics Laboratory Assistant** </span>.  
-Lab director: __Dr Patrycja Strycharczuk__.  
+<span style="color:purple"> **Psycholinguistics Laboratory Manager** </span>.  
+Lab director: __Dr Vera Hohaus__.  
 *The University of Manchester.*   
 Psycholinguistics Laboratory, NG.15  
 Samuel Alexander Building, M13 9PL.  

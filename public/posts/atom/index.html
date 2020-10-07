@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 
-<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="https://mcanzi.github.io/css/main.css">
 
 
 
@@ -94,7 +94,7 @@ $(document).ready(function(){
   })
 });
 </script>
- <meta name="generator" content="Hugo 0.55.1" />
+ <meta name="generator" content="Hugo 0.76.2" />
         
         
 
@@ -115,7 +115,7 @@ $(document).ready(function(){
     <meta property="og:type" content="article">
       
       <meta name="twitter:card" content="summary">
-      <meta name="twitter:image" content="/favicon/mcanzi.png" >
+      <meta name="twitter:image" content="https://mcanzi.github.io/favicon/mcanzi.png" >
       
     <meta property="description" content="">
     <meta property="og:description" content="">
@@ -220,12 +220,9 @@ $(document).ready(function(){
 </div>
 
 
-    <br> <div class="text-justify"><p><center><img src="/img/atom-logo.png" alt="Atom-logo" /></center></p>
-
+    <br> <div class="text-justify"><!-- raw HTML omitted -->
 <p><strong><a href="https://atom.io">Atom</a></strong> is a powerful open-source text editor with embedded Git control. Atom is unique because of its 7000+ plugins (packages) which are usually license-free and community-built. Atom supports syntax highlighting natively for more than 30 programming languages. The number is esponentially increased when external packages are installed.</p>
-
 <p>If you have Atom installed, you can search packages simply by opening up a new terminal window and typing <strong>apm search keyword</strong></p>
-
 <pre><code>massimiliano@Massimilianos-MacBook-Pro ~&gt; apm search language-r
 Search Results For 'language-r' (29)
 ├── language-r A language description and snippets for R (67671 downloads, 83 stars)
@@ -240,82 +237,52 @@ Search Results For 'language-r' (29)
 ├── language-jai JAI language support for Atom (112 downloads, 0 stars)
 ├── language-ohm Ohm language support in Atom (198 downloads, 0 stars)
 ...
-</code></pre>
-
-<p>You can then install the packages you want by typing</p>
-
+</code></pre><p>You can then install the packages you want by typing</p>
 <pre><code>apm install package-name-one package-name-two
-</code></pre>
-
-<p>In this post, I included a brief list a and description of packages I use on a daily basis. Depending on the type of work you do, some might not be relevant to you.</p>
-
+</code></pre><p>In this post, I included a brief list a and description of packages I use on a daily basis. Depending on the type of work you do, some might not be relevant to you.</p>
 <ul>
 <li><strong>LaTeX, R</strong> and <strong>Praat</strong> syntax highlighting:</li>
 </ul>
-
 <pre><code>apm install language-latex language-r language-praat
-</code></pre>
-
-<ul>
-<li><p><strong>Hydrogen</strong> can be used to run (not just edit) code in R and Python through Atom. A guide to set up R and Python kernels can be found <strong><a href="https://jstaf.github.io/2018/03/25/atom-ide.html">here</a></strong></p></li>
-
-<li><p><strong><a href="https://atom.io/packages/minimap">Minimap</a></strong> allows the user to visualise a smaller version of the entire code on the side of the editor, allowing fast movements between blocks of code. Really useful while editing or commenting.</p></li>
+</code></pre><ul>
+<li>
+<p><strong>Hydrogen</strong> can be used to run (not just edit) code in R and Python through Atom. A guide to set up R and Python kernels can be found <strong><a href="https://jstaf.github.io/2018/03/25/atom-ide.html">here</a></strong></p>
+</li>
+<li>
+<p><strong><a href="https://atom.io/packages/minimap">Minimap</a></strong> allows the user to visualise a smaller version of the entire code on the side of the editor, allowing fast movements between blocks of code. Really useful while editing or commenting.</p>
+</li>
 </ul>
-
 <pre><code>apm install minimap
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/packages/multi-cursor">Multi cursor</a></strong> is used to expand the cursor over more than one line in order to type the same thing across multiple lines. Really useful for defining arrays in some languages (e.g. Presentation&rsquo;s SDL/PCL).</li>
 </ul>
-
 <pre><code>apm install multi-cursor
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/packages/teletype">Teletype</a></strong> allows more people to share a workspace and edit the same code in real time.</li>
 </ul>
-
 <pre><code>apm install teletype
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/packages/file-icons">File icons</a></strong> provides custom file icons depending on file type.</li>
 </ul>
-
 <pre><code>apm install file-icons
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/packages/auto-update-packages">Auto update packages</a></strong> automatically updates all your other Atom packages.</li>
 </ul>
-
 <pre><code>apm install auto-update-packages
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/packages/atom-beautify">Atom beaitufy</a></strong> auto-indents your code, although indentation is something that should always be present from the start.</li>
 </ul>
-
 <pre><code>apm install atom-beautify
-</code></pre>
-
-<p>Some themes too..</p>
-
+</code></pre><p>Some themes too..</p>
 <ul>
 <li><strong><a href="https://atom.io/themes/atom-material-ui">Material UI</a></strong> is a dark theme based on Google&rsquo;s material design principles.</li>
 </ul>
-
 <pre><code>apm install atom-material-ui
-</code></pre>
-
-<ul>
+</code></pre><ul>
 <li><strong><a href="https://atom.io/themes/monokai">Monokai</a></strong> is a synthax theme characterised by bright colours. It works best with dark UI themes.</li>
 </ul>
-
 <pre><code>apm install monokai
-</code></pre>
-</div>
+</code></pre></div>
 
     
     

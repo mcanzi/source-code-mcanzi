@@ -10,7 +10,7 @@ description: "Educational background"
 
 __(2017 - Present)__	PhD in Linguistics.
 				The University of Manchester.
-				_Information flow order in speech perception: An electro-physiological 						approach to the architecture of perception and grammar._
+				_What PMN? Phonological mapping in speech-like perception_
 				Supervised by: __Dr Wendell Kimper__, __Dr Patrycja Strycharczuk__.
 
 __(2016 - 2017)__		MSc in Forensic Speech Science.
