@@ -20,7 +20,7 @@ __(2016 - 2017)__		MSc in Forensic Speech Science.
 				
 __(2015 - 2016)__		MA in Linguistics.
 				The University of Manchester.
-				Dissertation: _A study on the variation of fundamental frequency, f-patter, 					speaking rate and vowel length in soft, neutral and loud speech in Italian._
+				Dissertation: _A study on the variation of fundamental frequency, f-pattern, 					speaking rate and vowel length in soft, neutral and loud speech in Italian._
 				Supervised by: __Dr Wendell Kimper__.
 				
 __(2012 - 2015)__		BA in Foreign Languages and Literature (English & Portuguese).

@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "massimiliano canzi"
-    description = "speech perception & ERP | R, Matlab & Praat University of Manchester"
+    description = "speech perception, EEG & ERP | R, Matlab & Praat \nLab Manager at Universität Konstanz"
     logo = "favicon/mcanzi.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
@@ -44,17 +44,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "blog"
     weight = 2
 
-[[menu.main]]
-    url = "/tags/"
-    name = "tags"
-    weight = 5
+#[[menu.main]]
+#    url = "/tags/"
+#    name = "tags"
+#    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "mailto:massimiliano.canzi@manchester.ac.uk"
+    url = "mailto:massimiliano.canzi@uni-konstanz.de"
     name = "envelope-o"
     weight = 1
 
