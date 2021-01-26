@@ -1,7 +1,7 @@
 baseURL = "https://mcanzi.github.io/"
 languageCode = "en-us"
 title = "Massimiliano Canzi"
-description = "Massimiliano Canzi's academic website"
+description = "Massimiliano Canzi's personal website"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -30,13 +30,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
+    url = "/skills/"
     name = "curriculum vitae"
     weight = 3
 
 [[menu.main]]
     url = "/project/"
-    name = "selected presentations and research"
+    name = "selected presentations & research"
     weight = 4
     
 [[menu.main]]

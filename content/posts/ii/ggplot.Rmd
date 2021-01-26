@@ -1,0 +1,673 @@
+---
+title: "Introduction to data visualisation with R and ggplot"
+author: "Massimiliano Canzi"
+date: 2021-01-21
+tags: ["ggplot", "R", "data"]
+draft: false
+---
+
+# Setup & packages
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages
+
+The focus of this introductory, _code-along_ workshop is to get you acquainted with the basic syntax of the `ggplot()` package, as well as to provide sample code that you can later on expand for the analysis of your own data. 
+
+The `tidyverse` packages include `ggplot2`, the package focus of this workshop, as well as other useful additions. The packages of the tidyverse _universe_ have been created to work seamlessly together, often times replacing basic R functions with more elegant, efficient solutions. 
+
+```{r packages, include=TRUE}
+#install.packages("tidyverse")
+library(tidyverse)
+library(datasets)
+```
+
+# The data
+
+Today we will be working with different types of (linguistic) data to showcase common types of plots and ways to visualise your findings. The aim is to get you acquainted with different issues arising from different types of plots, as well as to provide you with a comprehensive range of examples that you can use and expand on for your own work. 
+
+We will be mainly working with three types of data: 
+
+- Event-related potential, __ERP__ data
+- __Vowel__ information (formants, duration, etc)
+- Non linguistic information (the __iris__ dataset)
+
+## ERP dataset
+
+Let us `read_csv()` the __ERP__ dataset provided to you for this course. It is always a good idea to inspect your dataset with the `head()` command. The dataset contains ERP data from 3 experiments, namely the `"ATT"`, `"BSL"` and `"PRS"` levels of the `block` variable. Today we are focusing on data from one experiment only, the `"ATT"` experiment. 
+
+To do this, we "pipe" (i.e. the `%>%` operator) into the `filter()` function, which substitutes the core R `subset()` function, to only accept any observation where `block == "ATT"`.
+
+If you are unsure of what argument a function requires, you can always use the `?` command followed by the function name (e.g. `?filter()`)
+
+The `%>%` operator should be read as "then" (e.g. read this file to the variable ERP and __THEN__ only save observations where block equals "ATT"). `%>%` allows you to combine multiple operations and it is a very elegant solution. 
+
+```{r dataset, include = FALSE}
+ERP <- read_csv("./ERP.csv") %>% 
+  filter(block == "ATT")
+```
+
+The `%>%` operator should be read as "then" (e.g. read this file to the variable ERP and __THEN__ only save observations where block equals "ATT"). `%>%` allows you to combine multiple operations and it is a very elegant solution. 
+
+```{r head, include=TRUE}
+head(ERP)
+```
+
+## "ATT" data 
+
+The core of experiment __"ATT"__ consisted of participants listening to a sequence of three syllables, presented auditorily and separated by a short pause (e.g. levels `"first_syllable"`, `"second_syllable"` and `"third_syllable"` of the `condition` variable). Once all three syllables had been presented, subjects were instructed that they had four seconds to mentally concatenate the three syllables in the sequence to form a (nonce) word. Participants were also instructed not to alter the order in which the syllables were presented. Following the four-second pause in which participants completed the behavioural task, subjects would hear a nonce word that either __matched__ (i.e. level `"control"` of the `condition` variable) the nonce word made up of the three syllables (66% of the time) or a __mismatch__ (i.e. level `"target"` of the `condition` variable) nonce word that presented a different first syllable (33% of the time). Both the match and mismatch stimuli would present the same trisyllabic structure and the only differences would be the choice of CV combination in the first syllable.
+
+For each `subject` (e.g. `"201"`, `"202"`, etc.) at each `electrode` (e.g. `"FCz"`, `"Fz"`, etc.) and for each experimental condition of the five summarised above, the __DV__, `amplitude_mean`, is average measurements (of every time that particular stimulus was presented to a given subject) taken with a sampling rate of 512 Hz between a 'time' of `-100` and `700` after the presentation of the stimulus. 
+
+For example..
+
+```{r}
+ERP_single <- ERP %>%
+  filter(subject == 202) %>%
+  filter(condition == "control") %>%
+  filter(electrode == "Fp1")
+
+plot <- plot(ERP_single$time, 
+             ERP_single$amplitude.mean,
+             xlim = c(-100, 500),
+             ylim = c(-5, 5),
+             type = "l") 
+```
+
+The plot above is an average of the ERP responses of subject `202`, at electrode site `Fp1` (pre-frontal) to the presentation of `control` (i.e. matching) stimuli. The plot is extremely basic. While it seem to work and could potentially clean up nicely once axes lables and a title are added, things start to get complicated once we want to plot grand averages (averages of all subjects at one electrode site for one condition) or when we want to arrange multiple panes together to showcase responses at different electrode sites, etc. 
+
+# ggplot2
+
+## Line plots
+
+### Aesthetics
+
+__ggplot2__ makes it much easier, and it looks pretty, too! A `ggplot` object usually contains two parts. The first part, often referred to as the __aesthestics__ or `aes()` is where the data are mapped onto the axes of the plot, as well as where information regarding color coding and the data set are included. 
+
+```{r}
+my_aes <- ggplot(data = ERP_single, # what dataset we use 
+                   aes(x = time, # what variable should  be mapped onto x
+                       y = amplitude.mean)) # what ... onto y
+my_aes
+```
+
+However, if you run the block of code above, nothing happens and the plot is not populated. Every `ggplot` object requires the following instructions, added to the core object with a `+`. Required info often only includes the plot geometry (e.g. scatterplot, lineplot, violin plot). Many more non mandatory instructions can be added on, such as labels and axis information, legend, titles, colour scales and so on. 
+
+Let's start with something simple. 
+
+### Function geom_line()
+
+```{r}
+my_first_ggplot <- ggplot(data = ERP_single,
+                   aes(x = time, 
+                       y = amplitude.mean)) +
+  geom_line() # line plot geometry added to the aesthetics of the ggplot object
+
+my_first_ggplot
+```
+
+This is a very basic line plot we created by adding the `geom_line()` geometry. As you can see, we used default options for all of the parameters of the `geom_line()` function. If you want to explore all the different options of this particular geometry, as well aesthetic options, you can read more at `?geom_line()`. Below is an example where a few of the `geom_line()` parameters are modified. For example, with 
+
+  `geom_line(linetype = 3, size = 0.5)`
+
+```{r, echo=FALSE}
+msp <- ggplot(data = ERP_single,
+                   aes(x = time, 
+                       y = amplitude.mean)) +
+  geom_line(linetype = 3, size = 0.5)
+
+msp
+```
+  
+  `geom_line(linetype = 4, size = 1.2, colour = "red")`
+
+```{r, echo=FALSE}
+msp <- ggplot(data = ERP_single,
+                   aes(x = time, 
+                       y = amplitude.mean)) +
+  geom_line(linetype = 4, size = 1.2, colour = "red")
+
+msp
+```
+
+### Comparing multiple conditions
+
+In the previous plots, we displayed the average ERP responses of subject `202` to `"control"` stimuli at electrode site `Fp1`. But what if we wanted to visually compare the ERP components in response to `"control"` and `"target"` stimuli at electrode site `FC3` for example? First of all, let's subset our `ERP` dataset appropriately. 
+
+```{r}
+ERP_comparison <- ERP %>%
+  filter(subject == 202) %>%
+  filter(electrode == "FC3") %>%
+  filter(condition == "control" | condition == "target")
+
+head(ERP_comparison)
+```
+
+The `|` operator in the final line of the block is read as "or". 
+Now that our `ERP_comparison` dataset contains both `"control"` and `"target"` data, we can use `ggplot()` to visually compare. In order to do so, we want to add a parameter in the `aes()` portion of the code. In particular, we want to specify that the colour of the line should change depending on the experimental `condition`. We do so by saying `colour = condition`. 
+
+```{r}
+plot4 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition)) +
+  geom_line()
+
+plot4
+```
+
+We are using ERP data in this particular tutorial because it's what I'm most comfortable with given my background. However, these line plots are used for the visualisation of many types of data in linguistic, such as pitch contours, acoustic spectra, ultrasound tongue contours, frequency of word use over time, diphtong measurements, etc. 
+
+Because many paper publications are printed in black and white, it is often wise not to have `colour` as the only difference between the two lines, we can add `linetype = condition` in the `aes()` portion of the plot. If you have multiple comparisons, you can mix and match and have `colour = x` and `linetype = y`. You can also still specify other __unspecified__ paramenters directly in the `geom_line()` function directly, such as the `size` of the line and `alpha`, its transparency. When you add a colour / linetype __by__ variable option, a legend is automatically generated.
+
+```{r}
+plot4 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9)
+
+plot4
+```
+
+### Manual scales
+
+The colours and linetype options are chosen automatically by `ggplot()` but we can specify the options we prefer by creating __manual scales__. For instance, our figure uses two colours, so we can create a vector `col_options` that contains the names of two colours of our choice. Let's do that. 
+
+You can find a list of all the colour names you can use in this handy .pdf [here](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) on page __3__.
+
+```{r}
+col_options <- c("hotpink2", "deepskyblue4")
+```
+
+Now, we're going to tell `ggplot()` that it should use our colour scale when looking for colour options, we do that by adding the `scale_colour_manual` line. 
+
+```{r}
+plot5 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options)
+
+plot5
+```
+
+__Note:__ in the `ggplot2` environment, the keyword `colour` is used for the colours of objects such as lines and points. However, if you wanted to colour the inside of a box (in a box plot) you must use `fill` in the aesthetics (e.g. `fill = condition`) and you will specify your scale with `scale_fill_manual`. If you use `colour` and `scale_colour_manual` on a boxplot it will work. However, it will affect the colour of the borders of the box, rather the colour inside the box. 
+
+__Note2:__ Both AmE and BrE spelling of the word colo(u)r is accepted in a ggplot envionment so `scale_colour_manual()` and `scale_color_manual()` will both work.
+
+### Odds and ends
+
+Our plot is looking much nicer already, but let's add some odds and ends to make it look even better. 
+
+#### Title and labels
+
+We can add a title to our plot by adding the line 
+
+`ggtitle("our title")`
+
+We can add axis labels with the lines `xlab("x label")` and `ylab("y label")`. 
+
+```{r}
+plot6 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options) +
+  ggtitle("Averaged amplitude response across trials 
+          for subject 202 at electrode FC3") +
+  xlab("Time (in ms)") +
+  ylab(expression(paste("Amplitude (in ", mu, "V)")))
+
+plot6
+```
+
+#### Themes
+
+`ggplot()` comes standard with multiple themes, depending on the look you prefer. The one I use the most if `theme_minimal()` but others often used include `theme_classic()` and `theme_bw()` if you want to see what your plot would look like in black and white. You change the theme simply by adding one of the above lines to your plot. 
+
+`+ theme_minimal()`
+
+```{r, echo=FALSE}
+plot7 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options) +
+  ggtitle("Averaged amplitude response across trials 
+          for subject 202 at electrode FC3") +
+  xlab("Time (in ms)") +
+  ylab(expression(paste("Amplitude (in ", mu, "V)"))) +
+  theme_minimal()
+
+plot7
+```
+
+#### Final touches
+
+We can add a vertical line at `time = 0` to indicate when the stimulus is presented. This is done by adding the following line: 
+
+`+ geom_vline(xintercept = 0, linetype = 2)`
+
+This is often customary in ERP data visualisation. 
+
+Finally, we can make the title a little bit smaller to fit the remainder of the text in the plot, by adding the following line 
+
+`+ theme(plot.title = element_text(size = 11, face = "bold")))`
+
+```{r}
+plot8 <- ggplot(data = ERP_comparison,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options) +
+  ggtitle("Averaged amplitude response across trials 
+          for subject 202 at electrode FC3") +
+  xlab("Time (in ms)") +
+  ylab(expression(paste("Amplitude (in ", mu, "V)"))) +
+  geom_vline(xintercept = 0, linetype = 2) +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 11, face = "bold"))
+
+plot8
+```
+
+Awesome, now we can finally save the plot to disk. 
+
+#### Saving the plot 
+
+To save the plot to disk, we use the `ggsave()` function. 
+
+```{r}
+ggsave(filename = "./ERP_plot.png", plot = plot8, height = 8, width = 12)
+```
+
+With `ggsave()`, you can specify different `height` and `width` parameters --- as well as the `resolution` parameter --- depending on preferred image ratios and requirements. 
+
+### Multiple panels
+
+Previously, we have created an ERP line plot that shows the average response of subject `202` to the presentation of `"control"` and `"target"` stimuli at electrode `FC3`. What if we wanted to visually compare it to the same pot for subjects `206`, `209` and `210`? Certainly, we could simply create four different plots and arrange them together. That could be done using the function `ggarrange()`. However, it's a lot of unnecessary code. Luckily there's a solution and it's called `facet_wrap()`. Let's see how to use `facet_wrap()` in a `ggplot` environment to create multiple panels in the same plot. First of all, let's subset our dataset. 
+
+```{r}
+ERP_foursubj <- ERP %>%
+  filter(condition == "control" | condition == "target") %>%
+  filter(subject == 202 | subject == 206 |
+         subject == 210 | subject == 209) %>%
+  filter(electrode == "FC3")
+```
+
+Now, let's use `plot8` as a template and ladd the `facet_wrap` line to create multiple panels. More specifically we want four panels, one per subject. 
+
+```{r}
+plot9 <- ggplot(data = ERP_foursubj,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options) +
+  ggtitle("Averaged amplitude response across trials 
+          for subject 202, 206, 209 and 210 at electrode FC3") +
+  xlab("Time (in ms)") +
+  ylab(expression(paste("Amplitude (in ", mu, "V)"))) +
+  geom_vline(xintercept = 0, linetype = 2) +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 11, face = "bold")) + 
+  facet_wrap(vars(subject))
+plot9
+```
+
+As you can see, all four plots share the same `scale`, `legend,` `ggtitle` and axis labels. 
+
+Similarly to what we have done above, we could have, for instance, displayed the ERP response of subject `202` to the presentation of `"control"` and `"target"` stimuli across a variety of electrode sites. Let's do that. 
+
+```{r}
+ERP_fourelec <- ERP %>% 
+  filter(condition == "control" | condition == "target") %>%
+  filter(electrode == "F3" | electrode == "FC3" |
+           electrode == "C3" | electrode == "P3") %>%
+  filter(subject == 202) 
+```
+
+And now the plot. In this particular instance we want to use `vars(electrode)` instead of `vars(subject)` inside the `facet_wrap()` function. 
+
+```{r, echo=FALSE}
+plot10 <- ggplot(data = ERP_fourelec,
+                   aes(x = time, 
+                       y = amplitude.mean,
+                       colour = condition, 
+                       linetype = condition)) +
+  geom_line(size = 0.9, alpha = 0.9) +
+  scale_colour_manual(values = col_options) +
+  ggtitle("Averaged amplitude response across trials 
+          for subject 202 at electrode sites F3, FC3, C3 and P3") +
+  xlab("Time (in ms)") +
+  ylab(expression(paste("Amplitude (in ", mu, "V)"))) +
+  geom_vline(xintercept = 0, linetype = 2) +
+  theme_minimal() +
+  theme(plot.title = element_text(size = 11, face = "bold")) + 
+  facet_wrap(vars(electrode))
+plot10
+```
+
+The advantage of `ggarrange()` over `facet_grid()` is, however, the `ggarrange()` allows you to combine together multiple `ggplot` objects that can be of an geometry combination. For instance, you could have in one single plot the combination of a box plot, a line plot and a histogram. 
+
+## Box / Violin plots
+
+For the purpose of practicing boxplots and violin plots, we will be using the _very famous_ __iris__ dataset, which is included with the base version of R. 
+
+From __Wikipedia__: _The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters. Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other._
+
+```{r}
+data(iris)
+summary(iris)
+```
+
+### Box plots 
+
+First, let's create a simple simple box plot that displays `Petal.Width` differences by species. This is how we do it: 
+
+```{r}
+iris1 <- ggplot(iris, aes(x = Species, y = Petal.Width)) + 
+  geom_boxplot()
+
+iris1
+```
+
+This is a simple yet already very effective way to display the distribution, median values and inter quartile information of `Petal.Width` values across species, but we can do better. First of all, let's add some extra information, such as a title and axis labels.
+
+```{r}
+iris2 <- ggplot(iris, aes(x = Species, y = Petal.Width)) + 
+  geom_boxplot() + ggtitle("Petal width differences by species") +
+  xlab("Species") + ylab("Petal Width") + 
+  theme_minimal()
+
+iris2
+```
+
+From here, there's a simple way we can improve upon this. While box plots are great at telling us the overall distribution and range of the data, they do not clearly convey the number of observations. We can remediate that by adding `geom_jitter()` to our plot. Each _jittery_ point will corresponde to one observation. 
+
+```{r}
+iris3 <- ggplot(iris, aes(x = Species, y = Petal.Width)) + 
+  geom_boxplot() + ggtitle("Petal width differences by species") +
+  geom_jitter() +
+  xlab("Species") + ylab("Petal Width") + 
+  theme_minimal()
+
+iris3
+```
+
+Flower species are not a very linguistically-relevant subject, but the __iris__ dataset is a very neat dataset. You could pretend that, instead of `Pedal.Width`, we are measuring `Normalised.f0` or `Vowel.Duration` across three different vowels, `a`, `e` and `i`. You would be using the same type of visualisation. 
+
+Eventually, someone looked at this and asked _"Could this be any better?__ and the answer is 
+
+### Violin plots 
+
+Violin plots are just like box plots, but instead of having a square box showing you the two inner quarters of the data, they are characterised by a shape representing the distribution of the observations. 
+
+```{r}
+iris4 <- ggplot(iris, aes(x = Species, y = Petal.Width)) + 
+  geom_violin() + ggtitle("Petal width differences by species") +
+  geom_jitter() +
+  xlab("Species") + ylab("Petal Width") + 
+  theme_minimal()
+
+iris4
+```
+
+Neat, heh? By the way, the `geom_jitter()` dots' vertical placement depends on the observation's value for whatever feature we are measuring on the Y axis. However, the horizontal placement of the dot (i.e. whether the jitter dot is on the left or the right side of the box or the violin) is random. The points are _jittered_ horizontally so that they don't all overlap. Similarly, the distribution shown by the violin is mirrored on the left and right side. 
+
+Why not add some colour too? It's not really necessary here but..
+
+```{r, echo=FALSE}
+iris_col <- c("indianred2", "goldenrod2", "steelblue3")
+
+irisPW <- ggplot(iris, aes(x = Species, y = Petal.Width, 
+                          fill = Species)) + 
+  geom_violin() + ggtitle("Petal width differences by species") +
+  geom_jitter() +
+  xlab("Species") + ylab("Petal Width") + 
+  scale_fill_manual(values = iris_col) +
+  theme_minimal()
+
+irisPW
+```
+
+A very robust way of visualising data similar to a violin plot but, somehow, even more informative have been named __Raincloud Plots__. If you are interested, you can read more as well as find the full coding tutorial by __Allen et al.__ to _make it rain_ [here](https://wellcomeopenresearch.org/articles/4-63).
+
+### Extras 
+
+As an extra, we could add `colour` to `geom_jitter()` to provide information in regards to a different variable, such as `Petal.Length`. Let's try that. 
+
+```{r}
+#install.packages("viridis")
+library(viridis)
+
+irisPW2 <- ggplot(iris, aes(x = Species, y = Petal.Width, 
+                          fill = Species)) + 
+  geom_violin() + ggtitle("Petal width differences by species") +
+  geom_jitter(data = iris, aes(colour = Petal.Length)) +
+  xlab("Species") + ylab("Petal Width") + 
+  scale_colour_viridis(option = "magma") +
+  scale_fill_manual(values = iris_col) +
+  theme_minimal()
+
+irisPW2
+```
+
+### Combining multiple ggplots
+
+One thiing that we can do now is to combine multiple different plots together with `ggarrange()`. Before, we combined plots together with `facet_wrap()` but, to do so, you can only combine together plots that share the same `aes()` values, such as the `x` and `y` values. However, with `ggarrange()` you can conbine together multiple `ggplot` objects, whatever they are. 
+
+Let's make a quick scatterplot to investigate the correlation between `Petal.Width` and and `Petal.Length` by `Species`. 
+
+```{r}
+irisPWPL <- ggplot(iris, aes(x = Petal.Length, y = Petal.Width,
+                              colour = Species)) + 
+  geom_point(size = 4, pch = iris$Species) +
+  xlab("Petal Length") + ylab("Petal Width") +
+  ggtitle("Petal Length by Petal Width for three iris species") +
+  scale_colour_manual(values = iris_col) +
+  theme_minimal()
+
+irisPWPL
+```
+
+In this particular case, combining the box plot and the scatter plot does not particularly add much value, as most of the information conveyed by the box plot is also conveyed by the scatter plot. However, we will do it as a form of exercise in coding. In order to combine the two plots together, all we need to do is to load the `ggpubr` library and call the `ggarrange()` function. You can explore all of the possibilities of `ggarrange()` by running the command `?ggarrange()`.
+
+```{r}
+#install.packages("ggpubr")
+library(ggpubr)
+ggarrange(irisPW, irisPWPL, common.legend = TRUE)
+```
+
+## Scatterplots
+
+We already saw one example of scatter plot earlier with the `irisPWPL` object. Now, we will be focusssing on a specific subset of scatter plots, often called __vowel formant plots__. Not everyone in linguistics works with vowel data, but vowel formant data is common enough that teaching how to visualise it _should_ eventually become useful. At the very least, it will work as a prime example of how customisable `ggplot` objects are. In order to create vowel formant plots, we need vowels. 
+
+Let's read in the `vowels.csv` file provided to you for this workshop. The dataset contains vowel measurements for a few participants, including `F1`, `F2`, `F3` and `F4` measurements in English. Each formant has been measured, for each observation, at 10 equal points across the vowel, for the realisation of vowel formant contours. We are interested in one measurements per formant per vowel, so we will only take measurements taken at the mid-point of each observation. We do so with the `filter()` function. 
+
+```{r}
+vowels <- read_csv("./vowels.csv") %>% 
+  filter(Timeinterval == 50)
+vowels$Speaker <- as.factor(vowels$Speaker)
+
+vowelz <- vowels
+```
+
+We do not have a lot of information in regards to the speakers. We do not know whether the gender of all the speakers is the same. We might want to normalise the formant measurements by speaker before we proceed with plotting. You can run the next code chunk to normalise the formant values. 
+
+```{r}
+vowels <- vowels %>% group_by(Speaker) %>%
+  mutate(F1 = scale(F1)) %>%
+  mutate(F2 = scale(F2)) %>%
+  mutate(F3 = scale(F3)) %>%
+  mutate(F4 = scale(F4)) %>%
+  ungroup()
+```
+
+Now, we can plot the normalised (scaled) F1-F2 data in a scatter plot. Here is what the most basic version of a formant plot would look like.
+
+```{r}
+vowels1 <- ggplot(vowels, aes(x = F2, y = F1, 
+                              colour = Vowel, pch = Speaker)) +
+  geom_point(size = 2) + 
+  xlab("F2") + ylab("F1")
+
+vowels1
+```
+
+However, we know that most vowel plots are characterised by inverted axes, with F2 values often greater on the left side of the plot (towards the front of the mouth) and F1 values being greater towards the bottom of the plot (when the mouth is more open). `ggplot()` allows us to easily flip the axes and the axes labels. 
+
+```{r}
+vowels2 <- ggplot(vowels, aes(x = F2, y = F1, 
+                              pch = Speaker, 
+                              colour = Vowel)) +
+  geom_point(size = 2) + 
+  xlab("F2") + ylab("F1") +
+  scale_x_reverse(lim = c(2, -2), position = "top") +
+  scale_y_reverse(lim = c(2, -2), position = "right") +
+  ggtitle("Normalised F1-F2 vowel charts for 5 speakers of English") +
+  scale_color_viridis_d() +
+  theme_minimal() 
+
+vowels2
+```
+
+Here you go. The above is a classic F1-F2 vowel chart with normalised F1-F2 values in this case. Not the prettiest, but the aim here was to get a basic example that you can improve upon with the tools you have acquired through this brief workshop. Want to see something funky? 
+
+```{r, include=FALSE, message = FALSE}
+scale <- c("indianred1", "indianred4", "deepskyblue1", "deepskyblue4", "goldenrod1", "goldenrod3")
+
+#install.packages("ggforce")
+#install.packages("ggalt")
+library(ggforce)
+library(ggalt)
+
+vowels2 <- ggplot(vowels, aes(x = F2, y = F1, 
+                              fill = Vowel)) +
+  geom_encircle(alpha = 0.5) +
+  geom_point(size = 2) + 
+  xlab("F2") + ylab("F1") +
+  scale_x_reverse(lim = c(2, -2), position = "top") +
+  scale_y_reverse(lim = c(2, -2), position = "right") +
+  scale_fill_viridis_d() +
+  ggtitle("Normalised F1-F2 vowel charts for 5 speakers of English") +
+  theme_minimal()
+```
+
+```{r, echo=FALSE, message = FALSE}
+vowels2
+```
+
+Now we can compare the scaled data to the original data, to see the effects of normalisation on vowel formant data. 
+
+```{r}
+vowels3 <- ggplot(vowelz, aes(x = F2, y = F1, 
+                              fill = Vowel)) +
+  geom_encircle(alpha = 0.5) +
+  geom_point(size = 2) + 
+  xlab("F2") + ylab("F1") +
+  scale_x_reverse(position = "top") +
+  scale_y_reverse(position = "right") +
+  scale_fill_viridis_d() +
+  #ggtitle("Normalised F1-F2 vowel charts for 5 speakers of English") + 
+  theme_minimal()
+
+ggarrange(vowels2, vowels3, common.legend = TRUE)
+```
+# Homework
+
+- What do you think is the best way to visually compare `"F1"` values only for all vowels across speakers? 
+- How would you plot `"F2"` vowel contours (with ten measurements per vowel) for the diphtong `"ai"` for all `Speaker`s? (Hint: the `Timeinterval` variable reminds me of `time` in the `ERP` dataset..)
+- How would you compare `F1` and `F2` values of diphtongs at 20% and 80% of the diphtong trajectory? 
+
+...
+
+...
+
+...
+
+# Solutions
+
+## Task 1
+
+```{r}
+vowels <- read_csv("./vowels.csv") %>% 
+  filter(Timeinterval == 50)
+vowels$Speaker <- as.factor(vowels$Speaker)
+```
+
+```{r}
+task1 <- ggplot(vowels, aes(x = Vowel, y = F1, fill = Vowel)) +
+  geom_violin(alpha = 0.8) + 
+  geom_jitter() + 
+  scale_fill_viridis_d() +
+  ggtitle("F1 values for all speakers 
+          and vowels, measured at the midpoint") +
+  theme_minimal()
+
+task1
+```
+
+## Task 2
+
+```{r}
+vowelz <- read_csv("./vowels.csv") %>% 
+  filter(Vowel == "ai" | Vowel == "ei" | Vowel == "ou")
+vowelz$Speaker <- as.factor(vowelz$Speaker)
+```
+
+```{r}
+task2 <- ggplot(vowelz, aes(x = Timeinterval, y = F2, 
+                            colour = Speaker)) +
+  geom_point(size = 1, alpha = 0.8) + 
+  facet_wrap(vars(Vowel)) + 
+  xlab("Time Interval (in %)") +
+  scale_colour_viridis_d() +
+  theme_minimal() + 
+  ggtitle("F2 diphtong contours for 5 English speakers and 3 vowels")
+
+task2
+```
+
+## Task 3
+
+```{r}
+vowel20 <- filter(vowelz, Timeinterval == 20)
+vowel80 <- filter(vowelz, Timeinterval == 80)
+```
+
+```{r}
+library(ggforce)
+library(ggalt)
+
+F1F2plot <- function(ds) {
+  
+  plot <- ggplot(ds, aes(x = F2, y = F1, 
+                              fill = Vowel)) +
+  geom_encircle(alpha = 0.5) +
+  geom_point(size = 2) + 
+  xlab("F2") + ylab("F1") +
+  scale_x_reverse(position = "top") +
+  scale_y_reverse(position = "right") +
+  scale_fill_viridis_d() +
+  theme_minimal()
+  
+  return(plot) }
+```
+
+```{r}
+ggarrange(nrow = 2, F1F2plot(vowel20), F1F2plot(vowel80))
+```

@@ -15,3 +15,7 @@ static/.DS_Store
 static/img/.DS_Store
 static/img/favicon/.DS_Store
 themes/.DS_Store
+public/posts/ERP.csv
+public/posts/ggplot/ERP.csv
+public/posts/ii/ERP.csv
+content/posts/ii/ERP.csv
