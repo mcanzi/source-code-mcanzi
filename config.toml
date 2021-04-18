@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "massimiliano canzi"
     description = "Laboratory Manager at Universität Konstanz & PhD student at The University of Manchester"
-    logo = "favicon/mcanzi.png"
+    logo = "favicon/2021c.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
     accent = "#1F1F1F" # dark colors do best. original: 386890
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/skills/"
+    url = "/skills/education"
     name = "curriculum vitae"
     weight = 2
 
@@ -40,7 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 3
     
 [[menu.main]]
-    url = "/teaching/"
+    url = "/teaching/teaching"
     name = "teaching"
     weight = 4
 
