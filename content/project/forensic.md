@@ -1,22 +1,18 @@
 ---
-title: "the forensic implications of comparing soft, neutral and loud speech"
-tags: ["acoustics", "phonetics", "forensics"]
-weight: 3
+title: "[Canzi, M.] Inter- and intra- speaker variation of F(0, 1, 2) & vowel duration in soft, neutral and loud speech in Italian."
+tags: ["acoustics", "phonetics"]
+weight: 4
 draft: false
 date: 2018-04-11
 ---
 
-## Conferences
+### Conferences
 
-__2018__				Massimiliano Canzi 
- 				_The Forensic implications of comparing soft, neutral and loud speech._
-				Talk presented at the Manchester Forum in Linguistics (mFiL) in 						Manchester, UK. 26-27th April, 2018.
+__Canzi, M.__ (2018) The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the __Manchester Forum in Linguistics__ (mFiL) at	The University of Manchester
+
+__Canzi, M__ (2018) A quantitative analysis of inter- and intra- speaker variation of F0, F1, F2 and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academics in Phonetics__ (BAAP) at the University of Kent.
 				
-__2018__				Massimiliano Canzi
-				_A quantitative analysis of inter- and intra- speaker variation of F0, F1, F2 					and vowel duration in soft, neutral and loud speech in Italian._
-				Poster presented at the Colloquium of the British Association of 						Academic Phoneticians (BAAP) in Canterbury, UK. 12-14th April, 2018.
-				
-## Abstract
+### Abstract
 
 The current research focuses on the variation of acoustic and phonetic parameters including mean F0, F1, F2, speech rate and vowel duration in soft, neutral and loud speech throughout the whole Italian vowel monophthong inventory. Considerable intra–speaker variation from soft to loud speech is expected. Furthermore, we expect considerable inter-speaker variation to be conditioned by speech mode. Both inter- vs –intra-speaker differences are considered extremely relevant in the forensic context, as they are known to play a role in speaker identification and recognition (Remez et al. 1997). The study presents a bigger picture of the effect of speech-mode change throughout a whole vowel inventory, compared to existing studies on forensic phonetic analysis of loud speech which mainly focused on one or few vowels (e.g. Elliot 2000).
 
@@ -24,17 +20,16 @@ The current research focuses on the variation of acoustic and phonetic parameter
 
 Differences in production and acoustics between speech modes, from soft to loud speech in this particular case, have both been attributed to production demands and perceptual constraints (Schulman 1989). Inter-speaker’s standard deviation for mean formant frequencies, for each of the seven vowel monophthongs, was found to be higher in loud and soft speech rather than in neutral, which suggests that the first two formants can be better used for differentiating speakers, both in acoustic analysis and in human perception and identification, when the speech mode is altered from neutral.
 
-# Resources
+## Poster 
+
+![BAAP 2018 Poster](/img/baap.jpeg)
+
+### Resources
 
 You can find the research compendium (_including data, analysis, code and slides/poster_) for this project at the following links:
 
 [BAAP 2018](https://github.com/mcanzi/baap)
 
 [mFiL 2018](https://github.com/mcanzi/mfil)
-
-## Poster 
-
-![BAAP 2018 Poster](/img/baap.jpeg)
-
 
 

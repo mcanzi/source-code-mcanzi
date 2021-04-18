@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "massimiliano canzi"
-    description = "speech perception, EEG & ERP | R, Matlab & Praat \nLab Manager at Universität Konstanz"
+    description = "Laboratory Manager at Universität Konstanz & PhD student at The University of Manchester"
     logo = "favicon/mcanzi.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
@@ -32,17 +32,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [[menu.main]]
     url = "/skills/"
     name = "curriculum vitae"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     url = "/project/"
-    name = "selected presentations & research"
-    weight = 4
+    name = "research"
+    weight = 3
     
 [[menu.main]]
-    url = "/posts/"
-    name = "blog"
-    weight = 2
+    url = "/teaching/"
+    name = "teaching"
+    weight = 4
 
 #[[menu.main]]
 #    url = "/tags/"

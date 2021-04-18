@@ -1,24 +1,16 @@
 ---
-title: "the effect of lexical frequency on vowel phonation as a correlate of t glottaling"
-tags: ["egg", "phonetics", "frequency"]
-weight: 2
+title: "[Coretta, S. & Canzi, M.] The effect of lexical frequency on vowel phonation as a correlate of /t/-glottaling"
+tags: ["egg", "phonetics"]
+weight: 3
 draft: false
 date: 2018-09-13
 ---
 
-## Presentations
+### Presentations
 
-__2018__	Stefano Coretta, Massimiliano Canzi
-				_The effect of lexical frequency on vowel phonation as a correlate of /t/-						glottaling._
-				Talk presented at the Linguistic Association of Great Britain (LAGB) 						conference in Sheffield, UK. 11-14th September, 2018. 
+Coretta, S. & __Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/-						glottaling. Talk presented at the __Linguistic Association of Great Britain__ (LAGB) conference at the University of Sheffield.
 				
-## Resources
-
-You can find the research compendium (_including data, analysis, code and slides/poster_) for this project at the following link:
-
-[LAGB 2018](www.github.com/stefanocoretta/2018-lagb)
-				
-## Abstract
+### Abstract
 
 __Introduction.__ Lexical frequency is known to modulate the effects of a phonetic bias on speech production, such that high-frequency words show a stronger effect for a particular bias since they are exposed more often to that bias (Bybee 2004). A prediction of this account is that the degree of anticipatory glottalisation from a glottalised consonant to a preceding vowel should be greater in high-frequency words than in low-frequency words, given the greater exposure to glottalisation. Such effect should be magnified in sentence-final position, for which more glottalisation has been shown to be present (in American English, Abdelli-Beruh et al. 2014). Such predictions are put to test in a pilot study which focuses on vowel anticipatory glottalisation from a glottal stop, which is the outcome of /t/-glottaling (by which /t/ is substituted with [ʔ], Bermúdez-Otero et al. 2016). We show that, contrary to prediction, low-frequency words are creakier and that phonation in sentence-final position is breathier.
 
@@ -32,7 +24,9 @@ __Discussion.__ Although to be confirmed with data from more participants, the p
 
 __Figures 1 and 2__. Estimates from the GAMM showing contact quotient (z-axis) within vowel duration (x-axis) as a function of lexical-frequency (y-axis) in sentence-final words. Lower CQ indicates breathier phonation. For /t/ (top plot), the higher the lexical frequency, the earlier in the vowel phonation changes to breathy (blue portion of the heatmap). The bottom plot shows that the opposite pattern is found for /k/, where vowels become breathier earlier in low-frequency words.
 
+### Resources
 
+You can find the research compendium (_including data, analysis, code and slides/poster_) for the project at the following link:
 
-
-
+[LAGB 2018](www.github.com/stefanocoretta/2018-lagb)
+				
