@@ -24,6 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     highlightLanguages = ["r", "bash", "go"]
 
 # adjust these as you see fit
+
 [[menu.main]]
     url = "/"
     name = "home"
