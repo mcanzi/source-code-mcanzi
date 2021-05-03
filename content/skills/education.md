@@ -52,15 +52,19 @@ __advanced__, intermediate, _beginner_
 
 * (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
+* (Submitted) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Conference Proceedings_
+
 ### Invited talks 
 
 * (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
 
 ### Selected presentations
 
-* (2020) __Canzi, M.__, & Kimper, W. Processing speech sounds in speech(-like) perception: an ERP study. Poster accepted at the __British Association of Academic Phoneticians__ at the University of York / Poster accepted at __PhonolEEGy__ at Université Côte d’Azur  
+__*__ indicates presenting authors
 
-* (2018) Coretta, S., & __Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling. Talk presented at the __Linguistic Association of Great Britain__ at the University of Sheffield  
+* (2020) __*Canzi, M.__, & Kimper, W. Processing speech sounds in speech(-like) perception: an ERP study. Poster accepted at the __British Association of Academic Phoneticians__ at the University of York / Poster accepted at __PhonolEEGy__ at Université Côte d’Azur  
+
+* (2018) *Coretta, S., & __*Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling. Talk presented at the __Linguistic Association of Great Britain__ at the University of Sheffield  
 
 * (2018) __Canzi, M.__ The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the Manchester Forum in Linguistics at the University of Manchester  
 
