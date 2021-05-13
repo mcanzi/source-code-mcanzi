@@ -1,7 +1,7 @@
 ---
 title: "[Coretta, S. & Canzi, M.] The effect of lexical frequency on vowel phonation as a correlate of /t/-glottaling"
-tags: ["egg", "phonetics"]
-weight: 4
+tags: ["acoustics", "eeg", "phonetics", "production"]
+weight: 5
 draft: false
 date: 2018-09-13
 ---

@@ -1,7 +1,7 @@
 ---
 title: "[Tsaroucha, A., Rathcke. T. & Canzi. M.] Effects of a face mask on the perception of English fricatives by native speakers of Greek"
 date: "2021-03-31"
-tags: ["acoustics", "phonetics", "perception"]
+tags: ["acoustics", "perception", "phonetics"]
 weight: 2
 draft: false
 ---

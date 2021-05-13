@@ -2,6 +2,7 @@
 title: "[Ulbrich, C. & Canzi, M.] Intonational alignment in second language acquisition"
 tags: ["phonetics", "acoustics"]
 weight: 1
+tags: ["acoustics", "production", "prosody"]
 draft: false
 date: 2021-04-19
 ---

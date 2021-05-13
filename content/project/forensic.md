@@ -1,7 +1,7 @@
 ---
 title: "[Canzi, M.] Inter- and intra- speaker variation of F(0, 1, 2) & vowel duration in soft, neutral and loud speech in Italian."
-tags: ["acoustics", "phonetics"]
-weight: 5
+tags: ["acoustics", "phonetics", "production"]
+weight: 6
 draft: false
 date: 2018-04-11
 ---

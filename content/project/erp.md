@@ -2,7 +2,7 @@
 title: "[Canzi, M. & Kimper, W.] What PMN? Investigating phonological processing in
 semantics-free speech perception with ERP"
 tags: ["erp", "perception"]
-weight: 3
+weight: 4
 draft: false
 date: 2021-04-18
 ---
