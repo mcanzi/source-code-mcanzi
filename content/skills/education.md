@@ -56,6 +56,8 @@ __advanced__, intermediate, _beginner_
 
 ### Invited talks 
 
+* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistcs and English Language__ (LEL) __Summer Seminars__ at the University of Manchester. 
+
 * (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
 
 ### Selected presentations
