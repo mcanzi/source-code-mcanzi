@@ -56,13 +56,13 @@ __advanced__, intermediate, _beginner_
 
 ### Invited talks 
 
-* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistcs and English Language__ (LEL) __Summer Seminars__ at the University of Manchester. 
+__*__ indicates presenting authors _(for multiauthored presentations)_
+
+* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistics and English Language__ (LEL) __Summer Seminars__ at the University of Manchester. 
 
 * (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
 
 ### Selected presentations
-
-__*__ indicates presenting authors
 
 * (2020) __*Canzi, M.__, & Kimper, W. Processing speech sounds in speech(-like) perception: an ERP study. Poster accepted at the __British Association of Academic Phoneticians__ at the University of York / Poster accepted at __PhonolEEGy__ at Université Côte d’Azur  
 
