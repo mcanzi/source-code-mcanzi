@@ -50,9 +50,9 @@ __advanced__, intermediate, _beginner_
 
 ### Publications 
 
-* (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+* (Forthcoming) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
-* (Submitted) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Conference Proceedings_
+* (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
 ### Invited talks 
 

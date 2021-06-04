@@ -9,7 +9,7 @@ date: 2021-04-19
 
 ### Publications
 
-__...__
+* (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
 ### Abstract
 
