@@ -76,11 +76,15 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 ### Training 
 
+* (2021) __B4SS__ [Bayesian Statistics for Speech Sciences] @ _https://learnb4ss.github.io_
+
+* (2021) __GAMMs Workshop__ [GAMMs] (Dr Cesko Voeten) at the University of Konstanz
+
 * (2021) __Deep Learning__ specialisation offered by deeplearning.ai on Coursera 
 
-* (2018) __Analysing Curves__ workshop on modelling data with General Additive Mixed Models and Independent Component Analysis at The University of Manchester  
+* (2018) __Analysing Curves__ [GAMMs, Functional PCA] (Dr Márton Sóskuthy, Dr Michele Gubian) at The University of Manchester 
 
-* (2018) __ERP Boot Camp__. Workshop held by Prof Steve Luck and Dr Emily Kapperman on processing and statistical analysis of ERP data at the University of Birmingham
+* (2018) __ERP Boot Camp__ [ERP, data analysis] (Prof Steve Luck, Dr Emily Kapperman) at the University of Birmingham
 
 ### Service
 
