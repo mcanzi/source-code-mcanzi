@@ -4,7 +4,7 @@ date: 2021-04-15
 draft: false
 ---
 
-Hi
+Hello!
 
 In the winter term of 2021 (October-February), I'm teaching a __Statistics__ course for MA students in Linguistics at Universität Konstanz. The course is taugh fully online. You can find all of the video lecture material on Vimeo [here](https://vimeo.com/mcanzi). 
 

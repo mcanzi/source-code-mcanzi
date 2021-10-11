@@ -46,7 +46,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
     
 [[menu.main]]
-    url = "/photos/photos"
+    url = "/photog/photo"
    name = "photography"
    weight = 5
     

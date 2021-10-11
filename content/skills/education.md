@@ -82,7 +82,8 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 Co-supervisor
 
-* (2021) __Lisa Liebsch__: MA thesis titled "differences in pitch range between German and Russian mono- lingual speakers" (Main supervisor: Prof Dr Tamara Rathcke)
+* (2021) __Lisa Liebsch__: MA thesis titled "differences in pitch range between German and Russian mono- lingual speakers" (Main supervisor: Prof Dr Tamara Rathcke) 
+
 * (2021) __Hannah Fraiss__: BA thesis titled "The effect of vowel harmony on swear-word offensiveness and emotionality in English" (Main supervisor: Prof Dr Tamara Rathcke)
 
 ### Training 
