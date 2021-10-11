@@ -1,6 +1,6 @@
 baseURL = "https://mcanzi.github.io/"
 languageCode = "en-us"
-title = "Massimiliano Canzi"
+title = ""
 description = "Massimiliano Canzi's personal website"
 theme = "min_night"
 disqusShortname = ""
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "massimiliano canzi"
-    description = "Laboratory Manager at Universität Konstanz & PhD student at The University of Manchester"
+    description = "Massimiliano Canzi | Laboratory Manager at Universität Konstanz"
     logo = "favicon/2021c.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
@@ -45,16 +45,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "teaching"
     weight = 4
     
-#[[menu.main]]
-#    url = "/photos/photos"
-#    name = "photography"
-#    weight = 5
+[[menu.main]]
+    url = "/photos/photos"
+   name = "photography"
+   weight = 5
     
-#[[menu.main]]
-#    url = "/music/music"
-#    name = "music"
-#    weight = 5
-
 #[[menu.main]]
 #    url = "/tags/"
 #    name = "tags"

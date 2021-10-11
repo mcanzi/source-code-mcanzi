@@ -21,7 +21,7 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 ### Education
 
-* (2017-2021) **PhD in Linguistics** (_nearing submission_) at The University of Manchester. "What PMN? Investigating phonological processing in semantics-free speech perception with ERP"; Supervised by Dr Wendell Kimper & Dr Patrycja Strycharczuk.  
+* (2017-2021) **PhD in Linguistics** at The University of Manchester. "What PMN? Investigating phonological processing in semantics-free speech perception with ERP"; Supervised by Dr Wendell Kimper & Dr Patrycja Strycharczuk.  
 * (2016-2017) __MSc in Forensic Speech Science__ at the University of York  
 * (2015-2016) __MA in Linguistics__ at the University of Manchester  
 * (2012-2015) __BA in Foreign Languages & Literature__ at the University of Milan  
@@ -50,9 +50,9 @@ __advanced__, intermediate, _beginner_
 
 ### Publications 
 
-* (Forthcoming) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
-
 * (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+
+* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
 ### Invited talks 
 
@@ -66,6 +66,10 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 ### Selected presentations
 
+* (2022) *Tsaroucha, A., Rathcke, T., & __Canzi, M.__ Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the __15th International Conference on Greek Linguistics__ (ICGL15).
+
+* (2021) *Mumtaz, B., __Canzi, M.,__ & Butt, M. Prosody of Case Markers in Urdu. Talk presented at __Interspeech 2021__ at the University of Brno.
+
 * (2020) __*Canzi, M.__, & Kimper, W. Processing speech sounds in speech(-like) perception: an ERP study. Poster accepted at the __British Association of Academic Phoneticians__ at the University of York / Poster accepted at __PhonolEEGy__ at Université Côte d’Azur  
 
 * (2018) *Coretta, S., & __*Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling. Talk presented at the __Linguistic Association of Great Britain__ at the University of Sheffield  
@@ -74,7 +78,16 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 * (2018) __Canzi, M.__ A quantitative analysis of inter- and intra- speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academic Phoneticians__ at the University of Kent  
 
+### Supervision
+
+Co-supervisor
+
+* (2021) __Lisa Liebsch__: MA thesis titled "differences in pitch range between German and Russian mono- lingual speakers" (Main supervisor: Prof Dr Tamara Rathcke)
+* (2021) __Hannah Fraiss__: BA thesis titled "The effect of vowel harmony on swear-word offensiveness and emotionality in English" (Main supervisor: Prof Dr Tamara Rathcke)
+
 ### Training 
+
+* (2021) __Statistical Methods for Linguistics and Psychology: Bayesian Stream__ (by Prof Shravan Vasishth) at the University of Potsdam.
 
 * (2021) __B4SS__ [Bayesian Statistics for Speech Sciences] @ _https://learnb4ss.github.io_
 
