@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "massimiliano canzi"
-    description = "Massimiliano Canzi | Laboratory Manager at Universität Konstanz"
+    description = "massimiliano canzi | laboratory manager at universität konstanz"
     logo = "favicon/2021d.png"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
