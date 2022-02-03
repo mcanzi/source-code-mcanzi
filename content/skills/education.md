@@ -8,7 +8,7 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 ### Employment
 
-* (1/2021-X/20XX) **Laboratory Manager** at LingLab, Universität Konstanz  
+* (1/2021-X/20XX) **Data Scientist & Laboratory Manager** at LingLab, Universität Konstanz  
   
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
   
@@ -30,7 +30,7 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 __advanced__, intermediate, _beginner_
 
-* Programming: __R, Praat, Presentation,__ Python, Hugo, _JsPsych, Matlab_  
+* Programming: __R, Praat, Presentation,__, _Python_ _JsPsych, Matlab, SQL_ 
 
 * R proficiency: __akima, car, eegUtils, ERP, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__  
 
@@ -41,6 +41,8 @@ __advanced__, intermediate, _beginner_
 * Experiments: __Presentation, PsychoPy,__ E-Prime, Qualtrics, _Gorilla_  
 
 * OS: __Windows, Mac OS, Ubuntu/Debian__  
+
+* Version Control: Git
 
 * Lab equipment: __EEG, EGG, audio recording, playback and synthesis__, _ultrasound_  
 
