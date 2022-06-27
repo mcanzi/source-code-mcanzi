@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2021-04-15
+date: 2022-06-28
 draft: false
 ---
 
@@ -52,7 +52,11 @@ __advanced__, intermediate, _beginner_
 
 ### Publications 
 
-* (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+* (Submitted) Brehmer, B., Sopata, A., & __Canzi, M.__ Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
+
+* (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
+
+* (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
@@ -104,9 +108,13 @@ Co-supervisor
 
 ### Service
 
+_Universität Konstanz_
+
+* (202) __Main Organiser__ of the ["Methods @ LingLabs"](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshop series
+
 _The University of Manchester_
 
-* (2020) __Main organiser__ of the Manchester Forum in Linguistics  
+* (2020) __Main Organiser__ of the Manchester Forum in Linguistics  
 
 * (2019) __GTA Representative__ for the Linguistics and English Language division  
 
