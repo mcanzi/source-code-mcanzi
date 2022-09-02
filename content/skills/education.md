@@ -9,9 +9,9 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 ### Employment
 
 * (1/2021-X/20XX) **Data Scientist & Laboratory Manager** at LingLab, Universität Konstanz  
-  
+
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
-  
+
 * (2/2018-2/2020) **Graduate Teaching Assistant** at The University of Manchester
   - **Forensic Linguistics** (Dr Andrea Nini)
   - **Handling Data** (Dr Patrycja Strycharczuk)
@@ -48,9 +48,9 @@ __advanced__, intermediate, _beginner_
 
 * Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A1)
 
-### Publications 
+### Publications
 
-* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change. 
+* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
 * (Submitted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
@@ -60,13 +60,13 @@ __advanced__, intermediate, _beginner_
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
-### Invited talks 
+### Invited talks
 
 __*__ indicates presenting authors _(for multiauthored presentations)_
 
 * (2021) __Canzi, M.__ Looking for the Phonological Mapping Negativity (in all the wrong places). Talk presented at the __Linguistics Department Research Colloquium__, University of Konstanz.
 
-* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistics and English Language__ (LEL) __Summer Seminars__ at the University of Manchester. 
+* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistics and English Language__ (LEL) __Summer Seminars__ at the University of Manchester.
 
 * (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
 
@@ -84,7 +84,7 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 * (2018) __Canzi, M.__ A quantitative analysis of inter- and intra- speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academic Phoneticians__ at the University of Kent  
 
-### Training 
+### Training
 
 * (2021) __Statistical Methods for Linguistics and Psychology: Bayesian Stream__ (by Prof Shravan Vasishth) at the University of Potsdam.
 
@@ -92,17 +92,21 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 * (2021) __GAMMs Workshop__ [GAMMs] (Dr Cesko Voeten) at the University of Konstanz
 
-* (2021) __Deep Learning__ specialisation offered by deeplearning.ai on Coursera 
+* (2021) __Deep Learning__ specialisation offered by deeplearning.ai on Coursera
 
-* (2018) __Analysing Curves__ [GAMMs, Functional PCA] (Dr Márton Sóskuthy, Dr Michele Gubian) at The University of Manchester 
+* (2018) __Analysing Curves__ [GAMMs, Functional PCA] (Dr Márton Sóskuthy, Dr Michele Gubian) at The University of Manchester
 
 * (2018) __ERP Boot Camp__ [ERP, data analysis] (Prof Steve Luck, Dr Emily Kapperman) at the University of Birmingham
 
 ### Service
 
+_Universität Konstanz_
+
+* (202) __Main Organiser__ of the ["Methods @ LingLabs"](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshop series
+
 _The University of Manchester_
 
-* (2020) __Main organiser__ of the Manchester Forum in Linguistics  
+* (2020) __Main Organiser__ of the Manchester Forum in Linguistics  
 
 * (2019) __GTA Representative__ for the Linguistics and English Language division  
 
