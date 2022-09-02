@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2021-04-15
+date: 2022-09-02
 draft: false
 ---
 
@@ -30,27 +30,31 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 __advanced__, intermediate, _beginner_
 
-* Programming: __R, Praat, Presentation,__, _Python_ _JsPsych, Matlab, SQL_ 
+* Data (Science) / Project Management: __R__, Microsoft Excel, _Python_, Git  
 
-* R proficiency: __akima, car, eegUtils, ERP, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__  
+* About R: __akima__, _brms_, __car, eegUtils, ERP, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__, ...  
 
-* Acoustics: __Praat, Audacity, Logic, iZotope,__ Wavesurfer  
+* Neuroimaging: __EEG/ERP, BioSemi, Acti/LabView, Presentation, EEGLAB, ERPLAB__, _Matlab_  
 
-* ERP: __BioSemi Systems, EEGLAB/ERPLAB, Active/LabView, Presentation__  
+* Behavioural: __Presentation, PsychoPy__, _E-Prime_, __Qualtrics, Gorilla__, Tobii Eye Tracking, _OpenSesame, JsPsych, Matlab_
 
-* Experiments: __Presentation, PsychoPy,__ E-Prime, Qualtrics, _Gorilla_  
+* Acoustics / Audio Capture: __Praat, Audacity, Logic__, iZotope, Wavesurfer, __Olympus / Tascam / Zoom recorders, microphones and microphone placement__, monitoring and mixing, synthesis and re-synthesis, music education  
 
-* OS: __Windows, Mac OS, Ubuntu/Debian__  
+* OS: __Windows, Mac OS, Unix__  
 
-* Version Control: Git
+* Web & Typesetting: __Microsoft Word, LaTeX, Markdown, Typo3, Hugo, Blogdown__
 
-* Lab equipment: __EEG, EGG, audio recording, playback and synthesis__, _ultrasound_  
+* Video Capture / Editing: __Extensive knowledge of photo/videography, Adobe Lightroom__, Adobe Photoshop, Adobe Premiere Pro  
 
-* Typesetting: __Microsoft Word, LaTeX, Markdown__  
-
-* Languages: __Italian__ (native), __English__ (C2), __Portuguese__ (B2), _German_ (A1)  
+* Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A1)
 
 ### Publications 
+
+* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change. 
+
+* (Submitted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
+
+* (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
 
 * (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
@@ -79,14 +83,6 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 * (2018) __Canzi, M.__ The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the Manchester Forum in Linguistics at the University of Manchester  
 
 * (2018) __Canzi, M.__ A quantitative analysis of inter- and intra- speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academic Phoneticians__ at the University of Kent  
-
-### Supervision
-
-Co-supervisor
-
-* (2021) __Lisa Liebsch__: MA thesis titled "differences in pitch range between German and Russian mono- lingual speakers" (Main supervisor: Prof Dr Tamara Rathcke) 
-
-* (2021) __Hannah Fraiss__: BA thesis titled "The effect of vowel harmony on swear-word offensiveness and emotionality in English" (Main supervisor: Prof Dr Tamara Rathcke)
 
 ### Training 
 
