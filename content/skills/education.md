@@ -50,13 +50,15 @@ __advanced__, intermediate, _beginner_
 
 ### Publications
 
+* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Nature Scientific Reports_
+
 * (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
 * (Submitted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
 * (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
 
-* (Submitted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+* (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
