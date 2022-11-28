@@ -8,7 +8,10 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 ### Employment
 
-* (1/2021-X/20XX) **Data Scientist & Laboratory Manager** at LingLab, Universität Konstanz  
+* (1/2021-//////) **Data Scientist & Laboratory Manager** (100\% TVL-13), Universität Konstanz  
+
+  - Lecturer in **Statistics** (Speech Language Processing MA)
+  - Lecturer in **Advanced Statistics** (Speech Language Processing MA)
 
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
 
@@ -54,9 +57,9 @@ __advanced__, intermediate, _beginner_
 
 * (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
-* (Submitted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
-
 * (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
+
+* (Accepted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
 * (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
