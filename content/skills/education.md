@@ -53,17 +53,43 @@ __advanced__, intermediate, _beginner_
 
 ### Publications
 
+_All haikus are AI-generated._  
+
 * (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Nature Scientific Reports_
+
+__Perception of time,__  
+__Regularization in speech,__  
+__Body movement involved.__  
 
 * (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
+__Broadcast media sound,__  
+__Changes observed, limited contact,__  
+__Second language learners.__  
+
 * (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
+
+__Grammatical gender,__  
+__Early acquisition, markedness,__  
+__Italian heritage.__  
 
 * (Accepted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
+__Bilingual children,__  
+__Selecting lexical nouns,__  
+__German, Polish both.__  
+
 * (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
 
+__Two accents meet, merge and then part__  
+__Belfast English, German heart__  
+__Prosody changes, influenced by thought__
+
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
+
+__Urdu case clitics,__  
+__Prosody incorporated,__  
+__Function and position.__  
 
 ### Invited talks
 
