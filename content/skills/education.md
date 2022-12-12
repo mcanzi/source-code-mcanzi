@@ -73,13 +73,13 @@ __Grammatical gender,__
 __Early acquisition, markedness,__  
 __Italian heritage.__  
 
-* (Accepted) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
+* (2022) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
 __Bilingual children,__  
 __Selecting lexical nouns,__  
 __German, Polish both.__  
 
-* (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+* (2022) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ https://doi.org/10.1016/j.specom.2022.11.007
 
 __Two accents meet, merge and then part__  
 __Belfast English, German heart__  
