@@ -36,11 +36,11 @@ __advanced__, intermediate, _beginner_
 
 * Data (Science) / Project Management: __R__, Microsoft Excel, _Python_, Git  
 
-* About R: __akima__, _brms_, __car, eegUtils, ERP, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__, ...  
+* About R: __akima__, _brms_, __car, eegUtils, ERP, gazeR, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__, ...  
 
 * Neuroimaging: __EEG/ERP, BioSemi, Acti/LabView, Presentation, EEGLAB, ERPLAB__, _Matlab_  
 
-* Behavioural: __Presentation, PsychoPy__, _E-Prime_, __Qualtrics, Gorilla__, Tobii Eye Tracking, _OpenSesame, JsPsych, Matlab_
+* Behavioural: __Presentation, PsychoPy__, _E-Prime_, __Qualtrics, Gorilla__, Tobii Pro Lab, _OpenSesame, JsPsych, Matlab_
 
 * Acoustics / Audio Capture: __Praat, Audacity, Logic__, iZotope, Wavesurfer, __Olympus / Tascam / Zoom recorders, microphones and microphone placement__, monitoring and mixing, synthesis and re-synthesis, music education  
 
@@ -48,33 +48,57 @@ __advanced__, intermediate, _beginner_
 
 * Web & Typesetting: __Microsoft Word, LaTeX, Markdown, Typo3, Hugo, Blogdown__
 
-* Video Capture / Editing: __Extensive knowledge of photo/videography, Adobe Lightroom__, Adobe Photoshop, Adobe Premiere Pro  
+* Video Capture / Editing: __Extensive knowledge of photo/videography, Adobe Lightroom__, Adobe Photoshop, Adobe Premiere Pro, _Adobe Illustrator_
 
-* Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A1)
+* Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A2)
 
 ### Publications
 
-* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability.
+_All haikus are AI-generated._  
+
+* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Attention, Perception \& Psychophysics_
+
+__Perception of time,__  
+__Regularization in speech,__  
+__Body movement involved.__  
+
+* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
+
+__Broadcast media sound,__  
+__Changes observed, limited contact,__  
+__Second language learners.__  
 
 * (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
- 
+
 * (Accepted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
 * (2023) __Canzi, M.__, & Rathcke, T. Unmasking the truf: impact of community masks on the perception of English fricatives. _Proc. ICPhS 2023_
 
 * (2023) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
-* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ https://doi.org/10.1016/j.specom.2022.11.007
+__Bilingual children,__  
+__Selecting lexical nouns,__  
+__German, Polish both.__  
+
+* (2022) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ 146, 70-81
+
+__Two accents meet, merge and then part__  
+__Belfast English, German heart__  
+__Prosody changes, influenced by thought__
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
-### Invited Talks / Workshops
+__Urdu case clitics,__  
+__Prosody incorporated,__  
+__Function and position.__  
+
+### Invited talks / workshops
 
 __*__ indicates presenting authors _(for multiauthored presentations)_
 
-* (2023) [6-8 June] __Canzi, M.__ Topics in Quantitative Methods. Graduate, 11-hour workshop taught at the __Department of Culture and Civilization__, University of Verona.
+* (2023) __Canzi, M.__ Topics in Quantitative Methods. Workshop taught at the __Department of Culture and Civilization__, University of Verona [6-8 June, 2023]
 
-* (2022) __Canzi, M.__ Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz
+* (2022) [https://youtu.be/vJjOsPhG1_0](Breaking Bad Habits in Experimental and Quantitative Linguistic Research). Workshop taught at the __Linguistics Department__, University of Konstanz. [5-6 May, 2022]
 
 * (2021) __Canzi, M.__ Looking for the Phonological Mapping Negativity (in all the wrong places). Talk presented at the __Linguistics Department Research Colloquium__, University of Konstanz.
 
@@ -100,7 +124,7 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 ### Training
 
-* (2021) __Statistical Methods for Linguistics and Psychology: Bayesian Stream__ (by Prof Shravan Vasishth) at the University of Potsdam.
+* (2022) __Statistical Methods for Linguistics and Psychology: Bayesian Stream__ (by Prof Shravan Vasishth) at the University of Potsdam.
 
 * (2021) __B4SS__ [Bayesian Statistics for Speech Sciences] @ _https://learnb4ss.github.io_
 
@@ -116,7 +140,9 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 _Universität Konstanz_
 
-* (202) __Main Organiser__ of the ["Methods @ LingLabs"](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshop series
+* (2023) __Main Organiser__ of the Konstanz Linguistics Conference
+
+* (2022) __Main Organiser__ of the ["Methods @ LingLabs"](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshop series
 
 _The University of Manchester_
 
