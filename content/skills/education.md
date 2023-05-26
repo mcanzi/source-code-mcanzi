@@ -8,10 +8,11 @@ _You can download a .pdf version of my updated CV_ [here](https://www.icloud.com
 
 ### Employment
 
-* (1/2021-//////) **Data Scientist & Laboratory Manager** (100\% TVL-13), Universität Konstanz  
+* (1/2021-//////) **Akademischer Mitarbeiter** at Universität Konstanz  
 
-  - Lecturer in **Statistics** (Speech Language Processing MA)
-  - Lecturer in **Advanced Statistics** (Speech Language Processing MA)
+  - Lecturer in **Statistics** (2021--)
+  - Lecturer in **Advanced Statistics** (2021--)
+  - Lecturer in **Introduction to Forensic Speech Science** (2023-2024)
 
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
 
@@ -53,47 +54,27 @@ __advanced__, intermediate, _beginner_
 
 ### Publications
 
-_All haikus are AI-generated._  
-
-* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Nature Scientific Reports_
-
-__Perception of time,__  
-__Regularization in speech,__  
-__Body movement involved.__  
-
-* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
-
-__Broadcast media sound,__  
-__Changes observed, limited contact,__  
-__Second language learners.__  
+* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability.
 
 * (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
+ 
+* (Accepted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
 
-__Grammatical gender,__  
-__Early acquisition, markedness,__  
-__Italian heritage.__  
+* (2023) __Canzi, M.__, & Rathcke, T. Unmasking the truf: impact of community masks on the perception of English fricatives. _Proc. ICPhS 2023_
 
-* (2022) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
+* (2023) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
-__Bilingual children,__  
-__Selecting lexical nouns,__  
-__German, Polish both.__  
-
-* (2022) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ https://doi.org/10.1016/j.specom.2022.11.007
-
-__Two accents meet, merge and then part__  
-__Belfast English, German heart__  
-__Prosody changes, influenced by thought__
+* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ https://doi.org/10.1016/j.specom.2022.11.007
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
 
-__Urdu case clitics,__  
-__Prosody incorporated,__  
-__Function and position.__  
-
-### Invited talks
+### Invited Talks / Workshops
 
 __*__ indicates presenting authors _(for multiauthored presentations)_
+
+* (2023) [6-8 June] __Canzi, M.__ Topics in Quantitative Methods. Graduate, 11-hour workshop taught at the __Department of Culture and Civilization__, University of Verona.
+
+* (2022) __Canzi, M.__ Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz
 
 * (2021) __Canzi, M.__ Looking for the Phonological Mapping Negativity (in all the wrong places). Talk presented at the __Linguistics Department Research Colloquium__, University of Konstanz.
 
@@ -102,6 +83,8 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 * (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
 
 ### Selected presentations
+
+* (2023) __Canzi, M*__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at ICPhS 2023
 
 * (2022) *Tsaroucha, A., Rathcke, T., & __Canzi, M.__ Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the __15th International Conference on Greek Linguistics__ (ICGL15).
 
