@@ -1,14 +1,14 @@
 ---
-title: "[Coretta, S. & Canzi, M.] The effect of lexical frequency on vowel phonation as a correlate of /t/-glottaling"
-tags: ["acoustics", "eeg", "phonetics", "production"]
+title: "The effect of lexical frequency on vowel phonation as a correlate of /t/-glottaling {S Coretta, M Canzi}"
+tags: ["acoustics", "egg", "phonetics", "production"]
 weight: 5
 draft: false
 date: 2018-09-13
 ---
 
-### Presentations
+### Output
 
-Coretta, S. & __Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/-						glottaling. Talk presented at the __Linguistic Association of Great Britain__ (LAGB) conference at the University of Sheffield.
+* (2018) Coretta, S. & __Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/-glottaling. Talk presented at the __Linguistic Association of Great Britain__ (LAGB) conference at the University of Sheffield.
 				
 ### Abstract
 

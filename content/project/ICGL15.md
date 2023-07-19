@@ -1,18 +1,22 @@
 ---
-title: "[Tsaroucha, A., Rathcke. T. & Canzi. M.] Effects of a face mask on the perception of English fricatives by native speakers of Greek"
+title: "Effects of a face mask on the perception of English fricatives by native speakers of Greek {A Tsaroucha, T Rathcke, M Canzi}"
 date: "2021-03-31"
 tags: ["acoustics", "perception", "phonetics"]
 weight: 2
 draft: false
 ---
 
-### Presentations
+### Output
 
-__...__
+* (2023) A. Tsaroucha, T. Rathcke, & __Canzi, M.__. Effects of a face mask on the perception of English fricatives by native speakers of Greek. _Proc. ICGL15_
+
+* (2022) *Tsaroucha, A., Rathcke, T., & __Canzi, M.__ Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the __15th International Conference on Greek Linguistics__ (ICGL15).
+
+* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistics and English Language__ (LEL) __Summer Seminars__ at the University of Manchester.
 
 ### Abstract
 
-_Background.__ The ongoing _COVID-19_ pandemic has made a daily use of face masks mandatory. This has greatly influenced the everyday communication since face masks interfere with both acoustic and visual cues that would otherwise be available to interlocutors in spoken interaction. The present study focuses on the effect of this interference for the perception of 4 voiceless English fricatives: dental /θ/, labiodental /f/, alveolar /s/, and postalveolar /ʃ/. It investigates Greek listeners’ responses to these fricatives produced with and without a face mask to examine whether L2 perception suffers in face mask conditions. The Greek phonology does not include a fricative contrast between an alveolar and a postalveolar place of articulation, with the Greek /s/ being classified as a retracted alveolar (Arvaniti, 2007), i.e. located in-between the English alveolar and postalveolar fricatives (Panagopoulos, 1991). Previous research on the perception of English consonants by native listeners of Greek has demonstrated that the alveolar-postalveolar pair causes a great difficulty to these listeners since Greek lacks the contrast, while in the dental-labiodental pair, /f/ tends to be accurately identified.
+__Background.__ The ongoing _COVID-19_ pandemic has made a daily use of face masks mandatory. This has greatly influenced the everyday communication since face masks interfere with both acoustic and visual cues that would otherwise be available to interlocutors in spoken interaction. The present study focuses on the effect of this interference for the perception of 4 voiceless English fricatives: dental /θ/, labiodental /f/, alveolar /s/, and postalveolar /ʃ/. It investigates Greek listeners’ responses to these fricatives produced with and without a face mask to examine whether L2 perception suffers in face mask conditions. The Greek phonology does not include a fricative contrast between an alveolar and a postalveolar place of articulation, with the Greek /s/ being classified as a retracted alveolar (Arvaniti, 2007), i.e. located in-between the English alveolar and postalveolar fricatives (Panagopoulos, 1991). Previous research on the perception of English consonants by native listeners of Greek has demonstrated that the alveolar-postalveolar pair causes a great difficulty to these listeners since Greek lacks the contrast, while in the dental-labiodental pair, /f/ tends to be accurately identified.
 
 __Hypotheses.__ Following on from the work by Lengeris and Nicolaidis (2014; 2016), the present study hypothesized that the identification of /s/ and /ʃ/ would be greatly impaired in face mask conditions, while the dental-labiodental pair was expected to cause less difficulties to native Greek listeners. We further hypothesized an impaired fricative identification in coda positions (esp. for dentals and labiodentals) given that Greek phonotactics only allows for /s/ and /n/ to occur in syllable codas (Setatos, 1974). English proficiency was expected to increase the overall accuracy, esp. in the identification of /s/ and /ʃ/.
 

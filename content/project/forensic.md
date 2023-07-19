@@ -1,16 +1,16 @@
 ---
-title: "[Canzi, M.] Inter- and intra- speaker variation of F(0, 1, 2) & vowel duration in soft, neutral and loud speech in Italian."
+title: "Inter- and intra- speaker variation of F(0, 1, 2) & vowel duration in soft, neutral and loud speech in Italian {M Canzi}"
 tags: ["acoustics", "phonetics", "production"]
 weight: 6
 draft: false
 date: 2018-04-11
 ---
 
-### Conferences
+### Output
 
-__Canzi, M.__ (2018) The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the __Manchester Forum in Linguistics__ (mFiL) at	The University of Manchester
+* (2018) __Canzi, M.__ The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the __Manchester Forum in Linguistics__ (mFiL) at	The University of Manchester
 
-__Canzi, M__ (2018) A quantitative analysis of inter- and intra- speaker variation of F0, F1, F2 and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academics in Phonetics__ (BAAP) at the University of Kent.
+* (2018) __Canzi, M__ A quantitative analysis of inter- and intra- speaker variation of F0, F1, F2 and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academics in Phonetics__ (BAAP) at the University of Kent.
 				
 ### Abstract
 

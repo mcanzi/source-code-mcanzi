@@ -1,6 +1,6 @@
 ---
-title: "[Canzi, M. & Kimper, W.] What PMN? Investigating phonological processing in
-semantics-free speech perception with ERP"
+title: "What PMN? Investigating phonological processing in
+semantics-free speech perception with ERP {M Canzi, W Kimper}"
 tags: ["erp", "perception"]
 weight: 4
 draft: false
@@ -27,4 +27,4 @@ No PMN was observed across all three experiments. Among the possible explanation
 
 ## Resources
 
-_The full doctoral manuscript will be available through open access upon completion of the PhD programme._
+_The full doctoral manuscript is currently available through open access._

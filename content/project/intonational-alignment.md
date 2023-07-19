@@ -1,5 +1,5 @@
 ---
-title: "[Ulbrich, C. & Canzi, M.] Intonational alignment in second language acquisition"
+title: "Intonational alignment in second language acquisition {M Canzi, C Ulbrich}"
 tags: ["phonetics", "acoustics"]
 weight: 1
 tags: ["acoustics", "production", "prosody"]
@@ -7,9 +7,9 @@ draft: false
 date: 2021-04-19
 ---
 
-### Publications
+### Output
 
-* (Accepted) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_
+* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ 146, 70-81
 
 ### Abstract
 

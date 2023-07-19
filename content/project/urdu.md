@@ -1,14 +1,14 @@
 ---
-title: "[Mumtaz, B., Canzi, M., & Butt., M.] Prosody of Case Markers in Urdu"
+title: "Prosody of Case Markers in Urdu {B Mumtaz, M Canzi, M Butt}"
 tags: ["acoustics", "phonetics", "prosody"]
 weight: 3
 draft: false
 date: 2021-03-10
 ---
 
-### Publications
+### Output
 
-* (Forthcoming) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
+* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Proc. Interspeech 2021_
 
 ### Abstract 
 
