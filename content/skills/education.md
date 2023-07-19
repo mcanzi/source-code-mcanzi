@@ -3,16 +3,10 @@ title: "Curriculum Vitae"
 date: 2022-09-02
 draft: false
 ---
-
-_You can download a .pdf version of my updated CV_ [here](https://www.icloud.com/iclouddrive/0IDZtLDAGm9bKNsRSwZpz2jXg#CV_New)
-
+ 
 ### Employment
 
-* (1/2021-//////) **Akademischer Mitarbeiter** at Universität Konstanz  
-
-  - Lecturer in **Statistics** (2021--)
-  - Lecturer in **Advanced Statistics** (2021--)
-  - Lecturer in **Introduction to Forensic Speech Science** (2023-2024)
+* (1/2021-//////) **Akademischer Mitarbeiter** (100% TVL-13) at Universität Konstanz: _Tenured lecturer in **Statistics**, **Advanced Statistics**, and **Introduction to Forensic Speech Science** for MA-level students. Data curation, analysis and visualisation in R. Supervision of MA and BA students. Staff training in behavioral and physiological research methods._
 
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
 
@@ -36,7 +30,7 @@ __advanced__, intermediate, _beginner_
 
 * Data (Science) / Project Management: __R__, Microsoft Excel, _Python_, Git  
 
-* About R: __akima__, _brms_, __car, eegUtils, ERP, gazeR, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidyverse, twitteR__, ...  
+* About R: __akima__, _brms_, __car, eegUtils, ERP, gazeR, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidymv, tidyverse, twitteR__, ...  
 
 * Neuroimaging: __EEG/ERP, BioSemi, Acti/LabView, Presentation, EEGLAB, ERPLAB__, _Matlab_  
 
@@ -54,51 +48,29 @@ __advanced__, intermediate, _beginner_
 
 ### Publications
 
-_All haikus are AI-generated._  
-
 * (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Attention, Perception \& Psychophysics_
 
-__Perception of time,__  
-__Regularization in speech,__  
-__Body movement involved.__  
-
-* (Submitted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
-
-__Broadcast media sound,__  
-__Changes observed, limited contact,__  
-__Second language learners.__  
-
-* (Submitted) Di Pisa, G., __Canzi, M.__, Rothman, J., & Marinis, T. Gender and number processing in Italian as a Heritage Language: effect of markedness and proficiency. _Linguistic Approaches to Bilingualism_
-
 * (Accepted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
+
+* (2023) A. Tsaroucha, T. Rathcke, & __Canzi, M.__. Effects of a face mask on the perception of English fricatives by native speakers of Greek. _Proc. ICGL15_
 
 * (2023) __Canzi, M.__, & Rathcke, T. Unmasking the truf: impact of community masks on the perception of English fricatives. _Proc. ICPhS 2023_
 
 * (2023) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
 
-__Bilingual children,__  
-__Selecting lexical nouns,__  
-__German, Polish both.__  
+* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ 146, 70-81
 
-* (2022) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ 146, 70-81
-
-__Two accents meet, merge and then part__  
-__Belfast English, German heart__  
-__Prosody changes, influenced by thought__
-
-* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Interspeech 2021 Proceedings_
-
-__Urdu case clitics,__  
-__Prosody incorporated,__  
-__Function and position.__  
+* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Proc. Interspeech 2021_
 
 ### Invited talks / workshops
 
 __*__ indicates presenting authors _(for multiauthored presentations)_
 
+* (2024) Learning Data Visualisation in R. Workshop taught as part of the Konstanz Methods Excellence Workshops at the __University of Konstanz__ [22-23 February, 2024]
+
 * (2023) __Canzi, M.__ Topics in Quantitative Methods. Workshop taught at the __Department of Culture and Civilization__, University of Verona [6-8 June, 2023]
 
-* (2022) [https://youtu.be/vJjOsPhG1_0](Breaking Bad Habits in Experimental and Quantitative Linguistic Research). Workshop taught at the __Linguistics Department__, University of Konstanz. [5-6 May, 2022]
+* (2022) Breaking Bad Habits in Experimental and Quantitative Linguistic Research. Workshop taught at the __Linguistics Department__, University of Konstanz. [5-6 May, 2022]
 
 * (2021) __Canzi, M.__ Looking for the Phonological Mapping Negativity (in all the wrong places). Talk presented at the __Linguistics Department Research Colloquium__, University of Konstanz.
 
@@ -108,7 +80,7 @@ __*__ indicates presenting authors _(for multiauthored presentations)_
 
 ### Selected presentations
 
-* (2023) __Canzi, M*__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at ICPhS 2023
+* (2023) *__Canzi, M__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at ICPhS 2023
 
 * (2022) *Tsaroucha, A., Rathcke, T., & __Canzi, M.__ Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the __15th International Conference on Greek Linguistics__ (ICGL15).
 
