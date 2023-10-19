@@ -92,7 +92,7 @@ __Kyoto IV__ (12.10.23)
 ![Photo](/img/photos/DSC03699.jpg)
 
 
-__Osaka I__ (14.10.23)
+__Osaka I__ (13.10.23)
 
 ![Photo](/img/photos/DSC03779.jpg)
 
@@ -102,16 +102,26 @@ __Osaka II__ (14.10.23)
 ![Photo](/img/photos/DSC03782.jpg)
 
 
-__Osaka III__ (15.10.23)
+__Osaka III__ (14.10.23)
 
 ![Photo](/img/photos/DSC03799.jpg)
 
 
-__Osaka IV__ (16.10.23)
+__Osaka IV__ (15.10.23)
 
 ![Photo](/img/photos/DSC03815.jpg)
 
 
-__Osaka V__ (16.10.23)
+__Osaka V__ (15.10.23)
 
 ![Photo](/img/photos/DSC03827.jpg)
+
+
+__Nara I__ (16.10.23)
+
+![Photo](/img/photos/DSC03836.jpg)
+
+
+__Nara II__ (16.10.23)
+
+![Photo](/img/photos/DSC03868.jpg)
