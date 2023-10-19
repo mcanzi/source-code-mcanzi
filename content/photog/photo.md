@@ -6,27 +6,72 @@ draft: false
 
 ## Photography 
 
-__Chinese New Year__ | Manchester, UK | A7III + Tamron 28-75 @ 63 mm, f/2.8, 1/1000 s, ISO 100
+Between 26.09.23 and 17.10.23, I journeyed through Japan, capturing its architecture and street life. All images were taken with the Sony A7IV mirrorless camera, paired with a 14 mm GM lens. 
 
-![Photo](/img/photos/DSC01080-Enhanced.jpg)
+__Tokyo I__
 
-__Deansgate Tramlink Station__ | Manchester, UK | A7III + Sony 24 mm @ f/5.6, 1/80 s, ISO 5000, 
+![Photo](/img/photos/DSC03379.jpg)
 
-![Photo](/img/photos/DSC03034-Enhanced.jpg)
+__Tokyo II__ (Shinjuku)
 
-__Drive__ | Manchester, UK | A7III + Tamron 17-28 mm @ 17 mm, f/2.8, 1/30 s, ISO 500
+![Photo](/img/photos/DSC03411.jpg)
 
-![Photo](/img/photos/DSC04651-2.jpg)
+__Hakone__
 
-__Cemetery Mist__ | Konstanz, DE | A7III + Tamron 17-28 mm @ 17 mm, f/2.8, 1/125, ISO 100
+![Photo](/img/photos/DSC03428.jpg)
 
-![Photo](/img/photos/DSC05181.jpg)
+__Nikko I__
 
-__Pier__ | Konstanz, DE | A7III + Tamron 17-28 mm @ 17 mm, f/11, 1/80 s, ISO 100
+![Photo](/img/photos/A7S01962.jpg)
 
-![Photo](/img/photos/DSC05577.jpg)
+__Nikko II__
 
-__Flower Festival__ | Funchal, PT | A7III + Tamron 70-180 @ 100 mm, f/2.8, 1/1000 s, ISO 200
+![Photo](/img/photos/A7S01954.jpg)
 
-![Photo](/img/photos/DSC06008.jpg)
+__Nikko III__
 
+![Photo](/img/photos/DSC03456.jpg)
+
+__Nikko IV__
+
+![Photo](/img/photos/DSC03501.jpg)
+
+__Takayama I__
+
+![Photo](/img/photos/DSC03544.jpg)
+
+__Takayama II__
+
+![Photo](/img/photos/A7S01991.jpg)
+
+__Kyoto I__
+
+![Photo](/img/photos/A7S02091.jpg)
+
+__Kyoto II__
+
+![Photo](/img/photos/A7S02051.jpg)
+
+__Kyoto III__
+
+![Photo](/img/photos/DSC03699.jpg)
+
+__Osaka I__
+
+![Photo](/img/photos/DSC03779.jpg)
+
+__Osaka II__
+
+![Photo](/img/photos/DSC03782.jpg)
+
+__Osaka III__
+
+![Photo](/img/photos/DSC03799.jpg)
+
+__Osaka IV__
+
+![Photo](/img/photos/DSC03815.jpg)
+
+__Osaka V__
+
+![Photo](/img/photos/DSC03827.jpg)
