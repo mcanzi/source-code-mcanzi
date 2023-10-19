@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "massimiliano canzi"
     description = "massimiliano canzi | data scientist & laboratory manager at universität konstanz"
-    logo = "favicon/2022d-3.png"
+    logo = "favicon/2022d-3.jpg"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
     accent = "#00181A" # "#1F1F1F" # dark colors do best. original: 386890
