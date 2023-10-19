@@ -118,10 +118,31 @@ The current set up has two TwitterCard/OpenGraph options depending on the params
 
 The summary description will use the one provided in a post's front matter if it exists or use the generic site description from `config.toml`. You should also adjust the `twitterAuthor` and `twitterSite` params in `config.toml` to point to your account. You can check how your cards are rendering once your website is being publish with the [TwitterCard Validator](https://cards-dev.twitter.com/validator).
 
+### Font Awesome
+
+Font Awesome v5 icons are supported. The syntax for using these icons has changed with the version update. You must now include the full name of the icon e.g. `far fa-twitter` which adds a tag that specifies the weight of the icon used.  Note that only free icons are supported by default.  If you are a Font Awesome Pro user, you can add your website as a new project which will generate the code necessary to reference the pro CDN.  Use the HTML code that is generated to replace that in the file at layouts/partials/css.html. Learn more in the [Font Awesome docs](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use).
+
+### [Coral](https://github.com/coralproject/talk) (formarly Talk)
+
+
+[Coral](https://github.com/coralproject/talk) is set of tools back by Mozilla, to make website commenting better. It is aimed at the news industry and has a lot of features for moderating a community, including abilities to mute annoying voices, set up specific notifications and access detailed commentor histories.
+
+While Coral can be viewed as alternative to Hugo's built-in support of Disqus, but it is definately geared towrds larger sites and requires extra tech infrastructure. Inorder to run Coral you will need to install additional software on your server, but this theme includes partial layouts for easily adding the required JS + HTML into your pages.
+
+To enable the parts for Talk v4 and Coral (Talk v5 or later) edit your `config.toml` file like this:
+
+```toml
+talkHost = "talk.example.com" # TalkV4
+coralHost = "coral.example.com"
+```
+
+Make sure you comment out (or delete) the `disqusShortName` field in `config.toml` to prevent multiple comment plugins being included. And make sure your host has SSL encryption (eg https://example.com) enabled becasue Talk/Coral requires it.
+
+Talk/Coral templates are graciously contributed by @mzch
 
 ## Going forward
 
-This theme is something I have been working on for the last 6-months and feel like it is finally ready (enough) to share with the world. I'm sure there a wrinkles in some of it that I have yet to find.
+This theme is something I enjoy and hope you do to.
 
 If you get unexpected behavior post an issue and try to keep it as minimal as possible. Ideally bug reports would be reproducible using the [QuickStart tutorial](https://gohugo.io/getting-started/quick-start/) plus whatever changes cause the problem.
 
