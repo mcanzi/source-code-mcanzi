@@ -3,10 +3,13 @@ title: "Curriculum Vitae"
 date: 2022-09-02
 draft: false
 ---
- 
+
+__Summary__: Formally trained in quantitative research in phonetics and speech sciences. Since 2021, I am a data scientist and laboratory manager in the linguistics department at Universität Konstanz, where I teach MA-level courses in "Statistics", "Advanced Statistics", "Forensic Speech Science" and "Eye Tracking & Pupillometry" for linguistics students. I am an avid R coder. I also advocate for sensible experimental designs, clear and reproducible data science and honest scientific communication.
+
+
 ### Employment
 
-* (1/2021-//////) **Akademischer Mitarbeiter** (100% TVL-13) at Universität Konstanz: _Tenured lecturer in **Statistics**, **Advanced Statistics**, and **Introduction to Forensic Speech Science** for MA-level students. Data curation, analysis and visualisation in R. Supervision of MA and BA students. Staff training in behavioral and physiological research methods._
+* (1/2021-//////) **Akademischer Mitarbeiter** (100% TVL-13) at Universität Konstanz
 
 * (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
 
@@ -20,9 +23,35 @@ draft: false
 ### Education
 
 * (2017-2021) **PhD in Linguistics** at The University of Manchester. "What PMN? Investigating phonological processing in semantics-free speech perception with ERP"; Supervised by Dr Wendell Kimper & Dr Patrycja Strycharczuk.  
+
 * (2016-2017) __MSc in Forensic Speech Science__ at the University of York  
+
 * (2015-2016) __MA in Linguistics__ at the University of Manchester  
+
 * (2012-2015) __BA in Foreign Languages & Literature__ at the University of Milan  
+
+### Publications
+
+* (subm) Redolfi, M., ... __Canzi, M.__, ... An eye-tracking study on monolingual and bilingual predictive processing. __[DC FA V W]__  
+
+* (subm) Gielge, R., ..., __Canzi, M.__, ... Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? __[DC FA V W]__  
+
+* (subm) Kupisch, T., ..., __Canzi, M.__, ... How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. __[DC FA V W]__  
+
+* (2024) Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change. In F. Kleber & T. Rathcke (eds.), Speech Dynamics: Synchronic Variation and Diachronic change. Mouton De Gruyter __[DC FA V W]__  
+
+* (2024) Rathcke, T., Smit, E., Yue, R.. & __Canzi, M.__. Synchronised movement and individ- ual rhythmic skill influence the perception of temporal structure in spoken language. Attention, Perception & Psychophysics __[DC V]__  
+
+* (2023) __Canzi, M__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Proc. ICPhS 2023 __[DC FA I V W]__  
+
+* (2023) A. Tsaroucha, T. Rathcke, & __Canzi, M.__. Effects of a face mask on the perception of English fricatives by native speakers of Greek. Proc. ICGL15 __[DC FA I SU V]__  
+
+* (2023) Brehmer, B., Sopata, A., & __Canzi, M.__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. Linguistics Vanguard __[DC FA V W]__  
+
+* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. Speech Communication, 146, 70-81. __[DC FA V W]__  
+
+* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. Proc. Interspeech 2021, 2661-2665 __[DC FA V]__ 
+
 
 ### Skills
 
@@ -45,22 +74,6 @@ __advanced__, intermediate, _beginner_
 * Video Capture / Editing: __Extensive knowledge of photo/videography, Adobe Lightroom__, Adobe Photoshop, Adobe Premiere Pro, _Adobe Illustrator_
 
 * Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A2)
-
-### Publications
-
-* (Submitted) Rathcke, T., Smit, E., Yue, R., & __Canzi, M.__. Perception of temporal structure in speech is influenced by body movement and individual beat perception ability. _Attention, Perception \& Psychophysics_
-
-* (Accepted) [Chapter] Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change.
-
-* (2023) A. Tsaroucha, T. Rathcke, & __Canzi, M.__. Effects of a face mask on the perception of English fricatives by native speakers of Greek. _Proc. ICGL15_
-
-* (2023) __Canzi, M.__, & Rathcke, T. Unmasking the truf: impact of community masks on the perception of English fricatives. _Proc. ICPhS 2023_
-
-* (2023) Brehmer, B., Sopata, A., & __Canzi, M__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. _Linguistics Vanguard_
-
-* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. _Speech Communication_ 146, 70-81
-
-* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. _Proc. Interspeech 2021_
 
 ### Invited talks / workshops
 
