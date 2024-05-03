@@ -52,7 +52,6 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 * (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. Proc. Interspeech 2021, 2661-2665 __[DC FA V]__ 
 
-
 ### Skills
 
 __advanced__, intermediate, _beginner_
@@ -75,11 +74,21 @@ __advanced__, intermediate, _beginner_
 
 * Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A2)
 
+### MA (Co-) Supervision
+
+* (2024) S. Tay: "*Speech-to-song illusion in bilingual speakers with a tonal L1*"
+
+* (2024) L. Ratzer: "*Does a week-long training intervention influence the rhythming priming effect on sentence processing?*"
+
+* (2024) N. Klotz: "*Advanced analyses of electro-glottographic and acoustic time-varying waveform dynamics in voice pathologies: A comparative study of pre- and post-treatment measures*"
+
 ### Invited talks / workshops
 
 __*__ indicates presenting authors _(for multiauthored presentations)_
 
-* (2024) Learning Data Visualisation in R. Workshop taught as part of the Konstanz Methods Excellence Workshops at the __University of Konstanz__ [22-23 February, 2024]
+* (2024) __Canzi, M.__ Topics in Data Curation and Visualisation. Workshop taught at the __Department of Culture and Civilization__, University of Verona [22-23 May, 2024]
+
+* (2024, 2025) Learning Data Visualisation in R. Workshop taught as part of the Konstanz Methods Excellence Workshops at the __University of Konstanz__ [22-23 February, 2024; TBC 2025]
 
 * (2023) __Canzi, M.__ Topics in Quantitative Methods. Workshop taught at the __Department of Culture and Civilization__, University of Verona [6-8 June, 2023]
 
