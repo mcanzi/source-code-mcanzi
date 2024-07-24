@@ -1,147 +1,169 @@
 ---
 title: "Curriculum Vitae"
-date: 2022-09-02
+date: 2024-07-24
 draft: false
 ---
 
 __Summary__: Formally trained in quantitative research in phonetics and speech sciences. Since 2021, I am a data scientist and laboratory manager in the linguistics department at Universität Konstanz, where I teach MA-level courses in "Statistics", "Advanced Statistics", "Forensic Speech Science" and "Eye Tracking & Pupillometry" for linguistics students. I am an avid R coder. I also advocate for sensible experimental designs, clear and reproducible data science and honest scientific communication.
 
+# 1. Employment
 
-### Employment
+- (1/2021-1/2056) **Academic Staff** [100% TVL 13] at Universität Konstanz, DE
 
-* (1/2021-//////) **Akademischer Mitarbeiter** (100% TVL-13) at Universität Konstanz
+- (2/2018-2/2020) **Graduate Teaching Assistant** at The University of Manchester, UK
+  - Handling Data (Dr Patrycja Strycharczuk)
+  - Language, Mind & Brain (Dr Wendell Kimper)
+  - Sounds of Language (Dr Patrycja Strycharczuk)
+  - Forensic Linguistics (Dr Andrea Nini)
+  - Psycholinguistics (Dr Thea-Cameron Faulkner)  
+  - ...
+  
+- (2/2018-9/2019) **Psycholinguistics Lab Manager** at The University of Manchester, UK
 
-* (2/2018-9/2019) **Psycholinguistics Laboratory Manager** at The University of Manchester
+- (2/2018-8/2018) **Graduate Research Assistant** on the UMRI-funded project: Beauty is in the ear of the beholder: the role of accent in mate choice. **PI**: Dr Tucker Gilman, Dr Patrycja Strycharczuk, Dr Alex Baratta. The University of Manchester, UK
 
-* (2/2018-2/2020) **Graduate Teaching Assistant** at The University of Manchester
-  - **Forensic Linguistics** (Dr Andrea Nini)
-  - **Handling Data** (Dr Patrycja Strycharczuk)
-  - **Language, Mind & Brain** (Dr Wendell Kimper)
-  - **Psycholinguistics** (Dr Thea-Cameron Faulkner)
-  - **Sounds of Language** (Dr Patrycja Strycharczuk)
+# 2. Education
 
-### Education
+- (2017-2021) **PhD in Linguistics** at The University of Manchester, UK. *What PMN? Investigating phonological processing in semantics-free speech perception with ERP.* Project supervised by **Dr Wendell Kimper** & **Dr Patrycja Strycharczuk**, examined by **Dr Vera Hohaus** & **Dr Linnaea Stockall**. Viva passed with *minor corrections* (A2) on August 27th, 2021
 
-* (2017-2021) **PhD in Linguistics** at The University of Manchester. "What PMN? Investigating phonological processing in semantics-free speech perception with ERP"; Supervised by Dr Wendell Kimper & Dr Patrycja Strycharczuk.  
+- (2016-2017) **MSc in Forensic Speech Science** at University of York, UK
 
-* (2016-2017) __MSc in Forensic Speech Science__ at the University of York  
+- (2015-2016) **MA in Linguistics** at The University of Manchester, UK
 
-* (2015-2016) __MA in Linguistics__ at the University of Manchester  
+- (2012-2015) **BA in Foreign Languages and Literature** at Università degli Studi di Milano, IT
 
-* (2012-2015) __BA in Foreign Languages & Literature__ at the University of Milan  
+# 3. Publications
 
-### Publications
+**C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
-* (subm) Redolfi, M., ... __Canzi, M.__, ... An eye-tracking study on monolingual and bilingual predictive processing. __[DC FA V W]__  
+- (submitted) Rathcke, T., Wong, H.Y., & **Canzi, M.** The Role of Sound-to-Symbol Literacy in Phonological Awareness: Evidence from Cantonese **[DC FA V]**
 
-* (subm) Gielge, R., ..., __Canzi, M.__, ... Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? __[DC FA V W]__  
+- (submitted) Redolfi, M., ... **Canzi, M.**, ... An eye-tracking study on monolingual and bilingual predictive processing. **[DC FA V W]**
 
-* (subm) Kupisch, T., ..., __Canzi, M.__, ... How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. __[DC FA V W]__  
+- (submitted) Gielge, R., Brehmer, B., **Canzi, M.**, & Gagarina, N. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? **[DC FA V W]**
 
-* (2024) Rathcke, T., Castellano, C., & __Canzi, M.__. Understanding the role of broadcast media in sound change. In F. Kleber & T. Rathcke (eds.), Speech Dynamics: Synchronic Variation and Diachronic change. Mouton De Gruyter __[DC FA V W]__  
+- (2024) Kupisch, T., ..., **Canzi, M.**, ... How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. *Heritage Language Journal* **[DC FA V W]**
 
-* (2024) Rathcke, T., Smit, E., Yue, R.. & __Canzi, M.__. Synchronised movement and individ- ual rhythmic skill influence the perception of temporal structure in spoken language. Attention, Perception & Psychophysics __[DC V]__  
+- (2024) Rathcke, T., Castellano, C., & **Canzi, M.** *Understanding the role of broadcast media in sound change.* In F. Kleber & T. Rathcke (eds.), Speech Dynamics: Synchronic Variation and Diachronic change. Mouton De Gruyter **[DC FA V W]**
 
-* (2023) __Canzi, M__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Proc. ICPhS 2023 __[DC FA I V W]__  
+- (2024) Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language. *Attention, Perception & Psychophysics* **[DC V]**
 
-* (2023) A. Tsaroucha, T. Rathcke, & __Canzi, M.__. Effects of a face mask on the perception of English fricatives by native speakers of Greek. Proc. ICGL15 __[DC FA I SU V]__  
+- (2023) **Canzi, M.**, & Rathcke, T. Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English. *Proc. ICPhS 2023* **[DC FA I V W]**
 
-* (2023) Brehmer, B., Sopata, A., & __Canzi, M.__. Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. Linguistics Vanguard __[DC FA V W]__  
+- (2023) A. Tsaroucha, T. Rathcke, & **Canzi, M.** Effects of a face mask on the perception of English fricatives by native speakers of Greek. *Proc. ICGL15* **[DC FA I SU V]**
 
-* (2023) Ulbrich, C., & __Canzi, M.__ Intonational alignment in second language acquisition. Speech Communication, 146, 70-81. __[DC FA V W]__  
+- (2023) Brehmer, B., Sopata, A., & **Canzi, M.** Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. *Linguistics Vanguard* **[DC FA V W]**
 
-* (2021) Mumtaz, B., __Canzi, M.__, & Butt, M. Prosody of Case Markers in Urdu. Proc. Interspeech 2021, 2661-2665 __[DC FA V]__ 
+- (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://mcanzi.github.io/project/intonational-alignment/). *Speech Communication*, 146, 70-81. **[DC FA V W]**
 
-### Skills
+- (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](https://www.icloud.com/iclouddrive/046G7dAoxFjEyll9C6r82DCow#Mumtaz_Canzi_Butt_2021). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
 
-__advanced__, intermediate, _beginner_
+# 4. Skills
 
-* Data (Science) / Project Management: __R__, Microsoft Excel, _Python_, Git  
+**advanced** | intermediate | *beginner*
 
-* About R: __akima__, _brms_, __car, eegUtils, ERP, gazeR, ggeffects, itsadug, lme4, lmerTest, mgcv, mlogit, partykit, pbkrtest, randomForest, simr, sjPlot, tidymv, tidyverse, twitteR__, ...  
+- *Programming:*  
+  **R, Praat**, Presentation, *SQL, Python*
 
-* Neuroimaging: __EEG/ERP, BioSemi, Acti/LabView, Presentation, EEGLAB, ERPLAB__, _Matlab_  
+- *Physiological & Articulatory Methods:*  
+  **ERP, EEG, EGG, Pupillometry**, Eye Tracking (Gaze), *Ultrasound*
 
-* Behavioural: __Presentation, PsychoPy__, _E-Prime_, __Qualtrics, Gorilla__, Tobii Pro Lab, _OpenSesame, JsPsych, Matlab_
+- *Experimental Software:*  
+  **Praat, PsychoPy, Presentation, Gorilla, EEG/ERPLAB, ActiView, Audacity**, E-Prime, Tobii ProLab, OpenSesame, *JsPsych, Matlab*
 
-* Acoustics / Audio Capture: __Praat, Audacity, Logic__, iZotope, Wavesurfer, __Olympus / Tascam / Zoom recorders, microphones and microphone placement__, monitoring and mixing, synthesis and re-synthesis, music education  
+- *Web & Typesetting:*  
+  **Microsoft Word, \LaTeX, Markdown, Typo3, Hugo, Blogdown**
 
-* OS: __Windows, Mac OS, Unix__  
+- *Languages:*  
+  **Italian** (native), **English** (C2), **Portuguese** (B2), *German* (A2)
 
-* Web & Typesetting: __Microsoft Word, LaTeX, Markdown, Typo3, Hugo, Blogdown__
+# 5. Invited Talks and Workshops
 
-* Video Capture / Editing: __Extensive knowledge of photo/videography, Adobe Lightroom__, Adobe Photoshop, Adobe Premiere Pro, _Adobe Illustrator_
+*"*" indicates presenting authors for multi-authored presentations
 
-* Languages: __Italian__ (native), __English__ (C2), Portuguese (B2), _German_ (A2)
+- (2025) [13-14 Feb] **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Short course (8 hours) at the Konstanz Methods Excellence Workshop series.
 
-### MA (Co-) Supervision
+- (2024) [2-6 Dec] **Canzi, M.** Introduction to Statistics with R. MA-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona.
 
-* (2024) S. Tay: "*Speech-to-song illusion in bilingual speakers with a tonal L1*"
+- (2024) [20-24 May] **Canzi, M.** Data Manipulation and Visualisation in R. PhD-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona.
 
-* (2024) L. Ratzer: "*Does a week-long training intervention influence the rhythming priming effect on sentence processing?*"
+- (2024) [22-23 Feb] **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Short course (8 hours) at the Konstanz Methods Excellence Workshop series.
 
-* (2024) N. Klotz: "*Advanced analyses of electro-glottographic and acoustic time-varying waveform dynamics in voice pathologies: A comparative study of pre- and post-treatment measures*"
+- (2023) [6-8 June] **Canzi, M.** Topics in Quantitative Methods. PhD-level, 11-hour workshop taught at the Department of Culture and Civilization, University of Verona.
 
-### Invited talks / workshops
+- (2022) **Canzi, M.** Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz.
 
-__*__ indicates presenting authors _(for multiauthored presentations)_
+- (2021) **Canzi, M.** [Looking for the Phonological Mapping Negativity (in all the wrong places)](https://www.icloud.com/iclouddrive/0fcyc5N1Bh-vgL4OwZAl5I8QA#2021_unikon). Talk presented at the **Linguistics Department Research Colloquium**, Universität Konstanz.
 
-* (2024) __Canzi, M.__ Topics in Data Curation and Visualisation. Workshop taught at the __Department of Culture and Civilization__, University of Verona [22-23 May, 2024]
+- (2021) \*Rathcke, T., & \*Canzi, M.** [Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English](https://www.icloud.com/iclouddrive/066OD9mrYDnBG19gIZyzqAkoQ#LEL_slides). Talk presented at the **Linguistics and English Language** (LEL) **Summer Seminars** at the University of Manchester.
 
-* (2024, 2025) Learning Data Visualisation in R. Workshop taught as part of the Konstanz Methods Excellence Workshops at the __University of Konstanz__ [22-23 February, 2024; TBC 2025]
+- (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the **Glasgow University Laboratory of Phonetics**.
 
-* (2023) __Canzi, M.__ Topics in Quantitative Methods. Workshop taught at the __Department of Culture and Civilization__, University of Verona [6-8 June, 2023]
+# 6. Selected Presentations
 
-* (2022) Breaking Bad Habits in Experimental and Quantitative Linguistic Research. Workshop taught at the __Linguistics Department__, University of Konstanz. [5-6 May, 2022]
+- (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language. Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
-* (2021) __Canzi, M.__ Looking for the Phonological Mapping Negativity (in all the wrong places). Talk presented at the __Linguistics Department Research Colloquium__, University of Konstanz.
+- (2024) \*Link, P.M., **Canzi, M**, & Rathcke, T. Individual differences in sensorimotor synchronization and pupillometry. Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
-* (2021) \*Rathcke, T., & __*Canzi, M.__ Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Talk presented at the __Linguistics and English Language__ (LEL) __Summer Seminars__ at the University of Manchester.
+- **(2024)** Wang, L., Ong, J., **Canzi, M**., Jiang, C., & \*Liu, F. Mental representations of speech and musical pitch contours show reduced pitch ranges in congenital amusia. The 7th bi-annual European Society for Cognitive and Affective Neuroscience (ESCAN) meeting, May 22-25, 2024, Ghent, Belgium.
 
-* (2019) __Canzi, M.__ Dont let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the __Glasgow University Laboratory of Phonetics__.
+- (2023) \***Canzi, M**, & Rathcke, T. Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at *ICPhS 2023*.
 
-### Selected presentations
+- (2022) \*Tsaroucha, A., Rathcke, T., & **Canzi, M.** [Effects of a face mask on the perception of English fricatives by native speakers of Greek](https://mcanzi.github.io/project/icgl15/). Talk presented at the **15th International Conference on Greek Linguistics** (ICGL15).
 
-* (2023) *__Canzi, M__, & Rathcke, T.. Unmasking the truf: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at ICPhS 2023
+- (2021) \*Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](https://mcanzi.github.io/project/urdu/). Talk presented at **Interspeech 2021** at the University of Brno.
 
-* (2022) *Tsaroucha, A., Rathcke, T., & __Canzi, M.__ Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the __15th International Conference on Greek Linguistics__ (ICGL15).
+- (2018) \*Coretta, S., & **\*Canzi, M.** [The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling](https://mcanzi.github.io/project/glottaling/). Talk presented at the **Linguistic Association of Great Britain** at the University of Sheffield.
 
-* (2021) *Mumtaz, B., __Canzi, M.,__ & Butt, M. Prosody of Case Markers in Urdu. Talk presented at __Interspeech 2021__ at the University of Brno.
+- (2018) **Canzi, M.** The Forensic implications of comparing soft, neutral and loud speech.
+Talk presented at the *Manchester Forum in Linguistics* at The University of Manchester.
 
-* (2020) __*Canzi, M.__, & Kimper, W. Processing speech sounds in speech(-like) perception: an ERP study. Poster accepted at the __British Association of Academic Phoneticians__ at the University of York / Poster accepted at __PhonolEEGy__ at Université Côte d’Azur  
+- (2018) **Canzi, M.** [A quantitative analysis of inter- and intra-speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian](https://mcanzi.github.io/project/forensic/). Poster presented at the **British Association of Academic Phoneticians** at the University of Kent.
 
-* (2018) *Coretta, S., & __*Canzi, M.__ The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling. Talk presented at the __Linguistic Association of Great Britain__ at the University of Sheffield  
+# 7. Supervision
 
-* (2018) __Canzi, M.__ The Forensic implications of comparing soft, neutral and loud speech. Talk presented at the Manchester Forum in Linguistics at the University of Manchester  
+- (2024) *(1st, MA)* Mattes, K.
 
-* (2018) __Canzi, M.__ A quantitative analysis of inter- and intra- speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian. Poster presented at the __British Association of Academic Phoneticians__ at the University of Kent  
+- (2024) *(1st, MA)* Klotz, N.
 
-### Training
+- (2024) *(1st, MA)* Yan, Y. "Pupillometric investigation of language processing and emotional response in bilinguals with different L1 backgrounds during political speeches"
 
-* (2022) __Statistical Methods for Linguistics and Psychology: Bayesian Stream__ (by Prof Shravan Vasishth) at the University of Potsdam.
+- (2024) *(2nd, MA)* Ratzer, L.
 
-* (2021) __B4SS__ [Bayesian Statistics for Speech Sciences] @ _https://learnb4ss.github.io_
+- (2024) *(2nd, MA)* Tay, S. C. "Perception of speech to song illusion in listeners with a tonal native language"
 
-* (2021) __GAMMs Workshop__ [GAMMs] (Dr Cesko Voeten) at the University of Konstanz
+# 8. Awards
 
-* (2021) __Deep Learning__ specialisation offered by deeplearning.ai on Coursera
+- (2018) Coretta, S., & **Canzi, M.** (joint winners) of **Best Student Abstract** submitted to the LAGB 2018 conference: The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling.
 
-* (2018) __Analysing Curves__ [GAMMs, Functional PCA] (Dr Márton Sóskuthy, Dr Michele Gubian) at The University of Manchester
+# 9. Training
 
-* (2018) __ERP Boot Camp__ [ERP, data analysis] (Prof Steve Luck, Dr Emily Kapperman) at the University of Birmingham
+- (2023) Deep Learning** specialisation offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera (Currently in progress)
 
-### Service
+- (2021) [Statistical Methods for Linguistics and Psychology](https://www.uni-potsdam.de/de/isc/kurse/summerschool/smlp2021): Bayesian Stream (by Prof Shravan Vasishth) at the University of Potsdam.
 
-_Universität Konstanz_
+- (2021) [B4SS Workshop](https://learnb4ss.github.io) (Bayesian 4 Speech Sciences)
 
-* (2023) __Main Organiser__ of the Konstanz Linguistics Conference
+- (2021) GAMMs Workshop by Dr Cesko Voeten at the University of Konstanz
 
-* (2022) __Main Organiser__ of the ["Methods @ LingLabs"](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshop series
+- (2018) [Analysing Curves](https://analysingcurves.github.io). Workshop on modelling data with General Additive Mixed Models and Independent Component Analysis at The University of Manchester.
 
-_The University of Manchester_
+- (2018) [ERP Boot Camp](https://www.birmingham.ac.uk/schools/psychology/research/conferences/birmingham-erp-boot-camp/index.aspx). Workshop held by **Prof Steve Luck** and **Dr Emily Kapperman** on processing and statistical analysis of ERP data at the University of Birmingham.
 
-* (2020) __Main Organiser__ of the Manchester Forum in Linguistics  
+# 10. Service
 
-* (2019) __GTA Representative__ for the Linguistics and English Language division  
+**Department of Linguistics, Universität Konstanz**
 
-* (2019) __Organisatory helper__ at the Manchester Phonology Meeting conference (MFM)  
+- (2024) **Main organiser** of the Konstanz Linguistics Conference
+
+- (2023) **Organisatory helper** of the Musical Minds Workshop
+
+- (2023, 2024) **Main organiser** of the [Methods @ LingLab](https://www.ling.uni-konstanz.de/forschung/workshops/) open-access workshops on methods in linguistics.
+
+**Department of Linguistics and English Language, The University of Manchester**
+
+- (2020) **Main organiser** of the [Manchester Forum in Linguistics](https://mfilconf.co.uk) conference
+
+- (2019) **GTA Representative** for the Linguistics and English Language division
+
+- (2019) **Organisatory helper** at the [Manchester Phonology Meeting](http://www.lel.ed.ac.uk/mfm/28mfm.html) conference (MFM)
