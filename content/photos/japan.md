@@ -1,6 +1,6 @@
 ---
-title: "Japan"
-date: 2023-10-19
+title: "Photography"
+date: 2024-07-24
 draft: false
 ---
 
