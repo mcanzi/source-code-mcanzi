@@ -36,6 +36,8 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
+- (submitted) Ong, J., Wang, L., **Canzi, M.**, Wang, W., Jiang, C., \& Liu, F. Mental representations of speech and musical pitch contours show reduced pitch ranges in congenital amusia.
+
 - (submitted) Rathcke, T., Wong, H.Y., & **Canzi, M.** The Role of Sound-to-Symbol Literacy in Phonological Awareness: Evidence from Cantonese **[DC FA V]**
 
 - (submitted) Redolfi, M., ... **Canzi, M.**, ... An eye-tracking study on monolingual and bilingual predictive processing. **[DC FA V W]**
@@ -46,17 +48,17 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2024) Rathcke, T., Castellano, C., & **Canzi, M.** *Understanding the role of broadcast media in sound change.* In F. Kleber & T. Rathcke (eds.), Speech Dynamics: Synchronic Variation and Diachronic change. Mouton De Gruyter **[DC FA V W]**
 
-- (2024) Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language. *Attention, Perception & Psychophysics* **[DC V]**
+- (2024) Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** [Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language.](https://doi.org/10.3758/s13414-024-02893-8s) *Attention, Perception & Psychophysics*, 1-17 **[DC V]**
 
-- (2023) **Canzi, M.**, & Rathcke, T. Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English. *Proc. ICPhS 2023* **[DC FA I V W]**
+- (2023) **Canzi, M.**, & Rathcke, T. [Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English.](https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/77.pdf) *Proc. ICPhS 2023* **[DC FA I V W]**
 
 - (2023) A. Tsaroucha, T. Rathcke, & **Canzi, M.** Effects of a face mask on the perception of English fricatives by native speakers of Greek. *Proc. ICGL15* **[DC FA I SU V]**
 
-- (2023) Brehmer, B., Sopata, A., & **Canzi, M.** Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children. *Linguistics Vanguard* **[DC FA V W]**
+- (2023) Brehmer, B., Sopata, A., & **Canzi, M.** [Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children.](https://doi.org/10.1515/lingvan-2022-0061) *Linguistics Vanguard* **[DC FA V W]**
 
-- (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://mcanzi.github.io/project/intonational-alignment/). *Speech Communication*, 146, 70-81. **[DC FA V W]**
+- (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://doi.org/10.1016/j.specom.2022.11.007). *Speech Communication*, 146, 70-81. **[DC FA V W]**
 
-- (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](https://www.icloud.com/iclouddrive/046G7dAoxFjEyll9C6r82DCow#Mumtaz_Canzi_Butt_2021). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
+- (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
 
 # 4. Skills
 
@@ -101,7 +103,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 # 6. Selected Presentations
 
-- (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language. Poster accepted at AMLaP 2024 (Edinburgh, UK)
+- (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** [Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language.](https://doi.org/10.3758/s13414-024-02893-8) Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
 - (2024) \*Link, P.M., **Canzi, M**, & Rathcke, T. Individual differences in sensorimotor synchronization and pupillometry. Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
@@ -126,11 +128,11 @@ Talk presented at the *Manchester Forum in Linguistics* at The University of Man
 
 - (2024) *(1st, MA)* Klotz, N.
 
-- (2024) *(1st, MA)* Yan, Y. "Pupillometric investigation of language processing and emotional response in bilinguals with different L1 backgrounds during political speeches"
+- (2024) *(1st, MA)* Yan, Y. "Investigation of language processing and emotional response in bilinguals with different L1 backgrounds during political speeches"
 
-- (2024) *(2nd, MA)* Ratzer, L.
+- (2024) *(2nd, MA)* Ratzer, L. "Does a week-long rhythm training intervention influence the rhythmic priming effect on sentence processing?"
 
-- (2024) *(2nd, MA)* Tay, S. C. "Perception of speech to song illusion in listeners with a tonal native language"
+- (2024) *(2nd, MA)* Tay, S. "Perception of speech to song illusion in listeners with a tonal native language"
 
 # 8. Awards
 
