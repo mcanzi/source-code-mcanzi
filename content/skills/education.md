@@ -6,7 +6,7 @@ draft: false
 
 __Summary__: Formally trained in quantitative research in phonetics and speech sciences. Since 2021, I am a data scientist and laboratory manager in the linguistics department at Universität Konstanz, where I teach MA-level courses in "Statistics", "Advanced Statistics", "Forensic Speech Science" and "Eye Tracking & Pupillometry" for linguistics students. I am an avid R coder. I also advocate for sensible experimental designs, clear and reproducible data science and honest scientific communication.
 
-# 1. Employment
+## 1. Employment
 
 - (1/2021-1/2056) **Academic Staff** [100% TVL 13] at Universität Konstanz, DE
 
@@ -22,7 +22,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2/2018-8/2018) **Graduate Research Assistant** on the UMRI-funded project: Beauty is in the ear of the beholder: the role of accent in mate choice. **PI**: Dr Tucker Gilman, Dr Patrycja Strycharczuk, Dr Alex Baratta. The University of Manchester, UK
 
-# 2. Education
+## 2. Education
 
 - (2017-2021) **PhD in Linguistics** at The University of Manchester, UK. *What PMN? Investigating phonological processing in semantics-free speech perception with ERP.* Project supervised by **Dr Wendell Kimper** & **Dr Patrycja Strycharczuk**, examined by **Dr Vera Hohaus** & **Dr Linnaea Stockall**. Viva passed with *minor corrections* (A2) on August 27th, 2021
 
@@ -32,7 +32,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2012-2015) **BA in Foreign Languages and Literature** at Università degli Studi di Milano, IT
 
-# 3. Publications
+## 3. Publications
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
@@ -44,7 +44,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (submitted) Gielge, R., Brehmer, B., **Canzi, M.**, & Gagarina, N. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? **[DC FA V W]**
 
-- (2024) Kupisch, T., ..., **Canzi, M.**, ... How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. *Heritage Language Journal* **[DC FA V W]**
+- (2024) Kupisch, T., **Canzi, M.**, Ferin, M., Geiss, M., Reiber, M., \& Speck, P. How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. *Heritage Language Journal* **[DC FA V W]**
 
 - (2024) Rathcke, T., Castellano, C., & **Canzi, M.** *Understanding the role of broadcast media in sound change.* In F. Kleber & T. Rathcke (eds.), Speech Dynamics: Synchronic Variation and Diachronic change. Mouton De Gruyter **[DC FA V W]**
 
@@ -60,7 +60,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
 
-# 4. Skills
+## 4. Skills
 
 **advanced** | intermediate | *beginner*
 
@@ -79,7 +79,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 - *Languages:*  
   **Italian** (native), **English** (C2), **Portuguese** (B2), *German* (A2)
 
-# 5. Invited Talks and Workshops
+## 5. Invited Talks and Workshops
 
 *"*" indicates presenting authors for multi-authored presentations
 
@@ -101,7 +101,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the **Glasgow University Laboratory of Phonetics**.
 
-# 6. Selected Presentations
+## 6. Selected Presentations
 
 - (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** [Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language.](https://doi.org/10.3758/s13414-024-02893-8) Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
@@ -122,7 +122,7 @@ Talk presented at the *Manchester Forum in Linguistics* at The University of Man
 
 - (2018) **Canzi, M.** [A quantitative analysis of inter- and intra-speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian](https://mcanzi.github.io/project/forensic/). Poster presented at the **British Association of Academic Phoneticians** at the University of Kent.
 
-# 7. Supervision
+## 7. Supervision
 
 - (2024) *(1st, MA)* Mattes, K.
 
@@ -134,11 +134,11 @@ Talk presented at the *Manchester Forum in Linguistics* at The University of Man
 
 - (2024) *(2nd, MA)* Tay, S. "Perception of speech to song illusion in listeners with a tonal native language"
 
-# 8. Awards
+## 8. Awards
 
 - (2018) Coretta, S., & **Canzi, M.** (joint winners) of **Best Student Abstract** submitted to the LAGB 2018 conference: The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling.
 
-# 9. Training
+## 9. Training
 
 - (2023) Deep Learning** specialisation offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera (Currently in progress)
 
@@ -152,7 +152,7 @@ Talk presented at the *Manchester Forum in Linguistics* at The University of Man
 
 - (2018) [ERP Boot Camp](https://www.birmingham.ac.uk/schools/psychology/research/conferences/birmingham-erp-boot-camp/index.aspx). Workshop held by **Prof Steve Luck** and **Dr Emily Kapperman** on processing and statistical analysis of ERP data at the University of Birmingham.
 
-# 10. Service
+## 10. Service
 
 **Department of Linguistics, Universität Konstanz**
 

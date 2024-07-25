@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     logo = "/photos/014_FULL_01_XXX.jpg"
     twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
-    accent = "#1F1F1F" # "#1F1F1F" # dark colors do best. original: 386890
+    accent = "#082D32" # "#1F1F1F" # "#1F1F1F" # dark colors do best. original: 386890
     backgroundColor = "#E9E9E9" #  "#FFFDF8" # original is f5f5f5, 255 177 171
     font = "Lora" # should match the name on Google Fonts!
     highlight = true
@@ -36,7 +36,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.main]]
-    url = "/project/"
+    url = "/project/research"
     name = "research"
     weight = 3
     
