@@ -38,11 +38,11 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (submitted) Ong, J., Wang, L., **Canzi, M.**, Wang, W., Jiang, C., \& Liu, F. Mental representations of speech and musical pitch contours show reduced pitch ranges in congenital amusia.
 
-- (submitted) Rathcke, T., Wong, H.Y., & **Canzi, M.** The Role of Sound-to-Symbol Literacy in Phonological Awareness: Evidence from Cantonese **[DC FA V]**
-
 - (submitted) Redolfi, M., ... **Canzi, M.**, ... An eye-tracking study on monolingual and bilingual predictive processing. **[DC FA V W]**
 
-- (submitted) Gielge, R., Brehmer, B., **Canzi, M.**, & Gagarina, N. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? **[DC FA V W]**
+- (2025) Gielge, R., Brehmer, B., **Canzi, M.**, & Gagarina, N. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? *Der Welt der Slaven* **[DC FA V W]**
+
+- (2024) Rathcke, T., Wong, H.Y., & **Canzi, M.** The Role of Sound-to-Symbol Literacy in Phonological Awareness: Evidence from Cantonese. *Brain Research*, 1845, 149240 **[DC FA V]**
 
 - (2024) Kupisch, T., **Canzi, M.**, Ferin, M., Geiss, M., Reiber, M., \& Speck, P. How linguistic experience shapes accents in the heritage and majority language of heritage speakers at primary school age. *Heritage Language Journal* **[DC FA V W]**
 

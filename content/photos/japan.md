@@ -4,7 +4,7 @@ date: 2024-07-24
 draft: false
 ---
 
-__Lapland, Finland__ (03.2024) | _Shot on Leica M6, Leica 2/35mm ASPH, Kodak Vision3 250D+1_
+## Lapland, Finland
 
 ![Photo](/img/photos/014_FULL_01_XXX.jpg)
 
