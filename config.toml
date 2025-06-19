@@ -13,10 +13,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "massimiliano canzi"
     description = "massimiliano canzi | data scientist & laboratory manager at universität konstanz"
-    logo = "/photos/014_FULL_01_XXX.jpg"
-    twitterAuthor = "@mc_anzi"
+    logo = "/photos/JP24-03.jpg"
+    #twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"
-    accent = "#082D32" # "#1F1F1F" # "#1F1F1F" # dark colors do best. original: 386890
+    accent = "#2C2424" # "#1F1F1F" # "#1F1F1F" # dark colors do best. original: 386890
     backgroundColor = "#E9E9E9" #  "#FFFDF8" # original is f5f5f5, 255 177 171
     font = "Lora" # should match the name on Google Fonts!
     highlight = true

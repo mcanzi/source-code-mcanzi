@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "curriculum vitae"
 date: 2024-07-24
 draft: false
 ---

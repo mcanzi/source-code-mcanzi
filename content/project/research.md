@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "research"
 date: "2024-07-24"
 draft: no
 ---
