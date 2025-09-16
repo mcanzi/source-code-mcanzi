@@ -1,5 +1,5 @@
 ---
-title: "film photography"
+title: "photography"
 date: 2024-07-24
 draft: false
 ---
