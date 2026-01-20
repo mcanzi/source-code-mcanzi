@@ -18,8 +18,14 @@ Max
 
 -- 
 
-* (2024) Learning Data Visualisation in R. Workshop taught as part of the Konstanz Methods Excellence Workshops at the __University of Konstanz__ [22-23 February, 2024]
+- (2026, 2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
 
-* (2023) __Canzi, M.__ Topics in Quantitative Methods. Workshop taught at the __Department of Culture and Civilization__, University of Verona [6-8 June, 2023]
+- (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Graduate workshop taught at the Frankfurt Peace Research Institute [01.12-02.12]
 
-* (2022) Breaking Bad Habits in Experimental and Quantitative Linguistic Research. Workshop taught at the __Linguistics Department__, University of Konstanz. [5-6 May, 2022]
+- (2024) **Canzi, M.** Introduction to Statistics with R. MA-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona. [02.12-06.12]
+
+- (2024) **Canzi, M.** Data Manipulation and Visualisation in R. PhD-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona. [20.05-24.05]
+
+- (2023) **Canzi, M.** Topics in Quantitative Methods. PhD-level, 11-hour workshop taught at the Department of Culture and Civilization, University of Verona. [06.06-08.06]
+
+- (2022) **Canzi, M.** Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz.
