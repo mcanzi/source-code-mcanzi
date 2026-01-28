@@ -81,7 +81,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 *"*" indicates presenting authors for multi-authored presentations
 
-- (2026, 2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
+- (2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
 
 - (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Graduate workshop taught at the Frankfurt Peace Research Institute [01.12-02.12]
 
