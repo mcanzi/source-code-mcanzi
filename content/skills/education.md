@@ -36,9 +36,11 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
-- (2025) Tagliani, M., Cruz, L., Redolfi, M., Shirokorad, N., **Canzi, M.**, Melloni, C., & Vender, M. L2 learners take more time to catch the rhyme: An eye-tracking study on predictive processing. *International Journal of Bilingualism*.
+- (2026) Rathcke, T., & **Canzi, M.**. Individual differences in musical melody perception moderate the speech-to-song illusion in Mandarin Chinese listeners. *Scientific Reports* **[DC FA V]**
 
-- (2025) Gielge, R., Brehmer, B., **Canzi, M.**. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? *Der Welt der Slaven* **[DC FA V W]**
+- (2025) Tagliani, M., Cruz, L., Redolfi, M., Shirokorad, N., **Canzi, M.**, Melloni, C., & Vender, M. L2 learners take more time to catch the rhyme: An eye-tracking study on predictive processing. *International Journal of Bilingualism* **[DC FA V W]**
+
+- (2025) Gielge, R., Brehmer, B., **Canzi, M.**. Grammaticalization of (in)definiteness markers in Polish monolinguals and bilinguals: language-internal development or contact-induced change? *Die Welt der Slaven* **[DC FA V W]**
 
 - (2024) Rathcke, T., Wong, H.Y., & **Canzi, M.** The Role of Sound-to-Symbol Literacy in Phonological Awareness: Evidence from Cantonese. *Brain Research*, 1845, 149240 **[DC FA V]**
 
@@ -80,6 +82,8 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 ## 5. Invited Talks and Workshops
 
 *"*" indicates presenting authors for multi-authored presentations
+
+- (2026) **Canzi, M**. Pupillometry for the study of language (and beyond). Invited talk at the Manchester Forum in Linguistics, University of Manchester [01.05]
 
 - (2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
 

@@ -4,6 +4,16 @@ date: "2024-07-24"
 draft: no
 ---
 
+## Individual differences in musical melody perception moderate the speech-to-song illusion in Mandarin Chinese listeners
+
+Tamara Rathcke \& Massimiliano Canzi (2026). *Scientific Reports*
+
+Repeated exposure to a spoken phrase can give rise to the perception of the speech-to-song illusion (STS), whereby speech gains musical qualities and begins to sound like singing. STS is known to rely on acoustic cues and may depend on an individual’s ability to extract musical qualities (such as melody and rhythm) from speech acoustics.   
+
+So far, most research has examined listeners of non-tonal languages, with preliminary evidence indicating that tonal-language listeners experience STS differently, if at all. This study investigated STS in Mandarin Chinese listeners who rated song-likeness of Mandarin sentences before and after repetition and completed the Musical Ear Test. Test sentences were designed to promote the acoustic transmission of either melody or rhythm. Results demonstrated a modest STS effect in Mandarin listeners at the group level, which was independent of sentence acoustics. Individual abilities in rhythm perception had no impact on STS while, somewhat surprisingly, weaker melody perception abilities were found to facilitate STS.  
+
+This suggests that STS in Mandarin Chinese may be linked to a perceptual distortion of pitch. Overall, the findings indicate that STS mechanisms are shaped by linguistic background of listeners and provide new evidence that language experience can influence music perception and cognition.
+
 ## Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language
 
 Tamara Rathcke, Eline Smit, Rachel Yue \& Massimiliano Canzi (2024)  
