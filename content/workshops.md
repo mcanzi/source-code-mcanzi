@@ -1,6 +1,6 @@
 ---
 title: "workshops"
-date: 2022-06-28
+date: 2026-04-12
 draft: false
 ---
 
