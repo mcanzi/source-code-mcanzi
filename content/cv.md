@@ -6,7 +6,7 @@ draft: false
 
 __Summary__: Formally trained in quantitative research in phonetics and speech sciences. Since 2021, I am a data scientist and laboratory manager in the linguistics department at Universität Konstanz, where I teach MA-level courses in "Statistics", "Advanced Statistics", "Forensic Speech Science" and "Eye Tracking & Pupillometry" for linguistics students. I am an avid R coder. I also advocate for sensible experimental designs, clear and reproducible data science and honest scientific communication.
 
-## 1. Employment
+## Employment
 
 - (1/2021-1/2056) **Academic Staff** [100% TVL 13] at Universität Konstanz, DE
 
@@ -22,7 +22,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2/2018-8/2018) **Graduate Research Assistant** on the UMRI-funded project: Beauty is in the ear of the beholder: the role of accent in mate choice. **PI**: Dr Tucker Gilman, Dr Patrycja Strycharczuk, Dr Alex Baratta. The University of Manchester, UK
 
-## 2. Education
+## Education
 
 - (2017-2021) **PhD in Linguistics** at The University of Manchester, UK. *What PMN? Investigating phonological processing in semantics-free speech perception with ERP.* Project supervised by **Dr Wendell Kimper** & **Dr Patrycja Strycharczuk**, examined by **Dr Vera Hohaus** & **Dr Linnaea Stockall**. Viva passed with *minor corrections* (A2) on August 27th, 2021
 
@@ -32,7 +32,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2012-2015) **BA in Foreign Languages and Literature** at Università degli Studi di Milano, IT
 
-## 3. Publications
+## Publications
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
@@ -64,7 +64,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
 
-## 4. Skills
+## Skills
 
 **advanced** | intermediate | *beginner*
 
@@ -83,7 +83,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 - *Languages:*  
   **Italian** (native), **English** (C2), **Portuguese** (B2), *German* (A2)
 
-## 5. Invited Talks and Workshops
+## Invited Talks and Workshops
 
 *"*" indicates presenting authors for multi-authored presentations
 
@@ -91,7 +91,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
 
-- (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Graduate workshop taught at the Frankfurt Peace Research Institute [01.12-02.12]
+- (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Invited graduate workshop taught at the Frankfurt Peace Research Institute [01.12-02.12]
 
 - (2024) **Canzi, M.** Introduction to Statistics with R. MA-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona. [02.12-06.12]
 
@@ -101,13 +101,17 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2022) **Canzi, M.** Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz.
 
-- (2021) **Canzi, M.** [Looking for the Phonological Mapping Negativity (in all the wrong places)](https://www.icloud.com/iclouddrive/0fcyc5N1Bh-vgL4OwZAl5I8QA#2021_unikon). Talk presented at the **Linguistics Department Research Colloquium**, Universität Konstanz.
+- (2021) **Canzi, M.** [Looking for the Phonological Mapping Negativity (in all the wrong places)](https://www.icloud.com/iclouddrive/0fcyc5N1Bh-vgL4OwZAl5I8QA#2021_unikon). Invited talk presented at the **Linguistics Department Research Colloquium**, Universität Konstanz.
 
-- (2021) \*Rathcke, T., & **\*Canzi, M.** [Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English](https://www.icloud.com/iclouddrive/066OD9mrYDnBG19gIZyzqAkoQ#LEL_slides). Talk presented at the **Linguistics and English Language** (LEL) **Summer Seminars** at the University of Manchester.
+- (2021) \*Rathcke, T., & **\*Canzi, M.** [Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English](https://www.icloud.com/iclouddrive/066OD9mrYDnBG19gIZyzqAkoQ#LEL_slides). Invited talk presented at the **Linguistics and English Language** (LEL) **Summer Seminars** at the University of Manchester.
 
-- (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Talk presented at the **Glasgow University Laboratory of Phonetics**.
+- (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Invited talk presented at the **Glasgow University Laboratory of Phonetics**.
 
-## 6. Selected Presentations
+## Selected Presentations
+
+- (2025) Wang, L., **Canzi, M.**, & Liu, F. (2025). Mental representations of pitch contours in speech and complex tones change with age in non-autistic individuals but remain stable in autistic individuals. Poster presented at Auditory Science Meeting, Nottingham Trent University, UK
+
+- (2025) Ong, J. Canzi, M., & Liu, F. (2025). Mental representations of speech and song reveal language-specific and universal pitch and duration patterns in English and Mandarin listeners. Talk presented at Auditory Science Meeting, Nottingham Trent University, UK
 
 - (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** [Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language.](https://doi.org/10.3758/s13414-024-02893-8) Poster accepted at AMLaP 2024 (Edinburgh, UK)
 
@@ -128,17 +132,31 @@ Talk presented at the *Manchester Forum in Linguistics* at The University of Man
 
 - (2018) **Canzi, M.** [A quantitative analysis of inter- and intra-speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian](https://mcanzi.github.io/project/forensic/). Poster presented at the **British Association of Academic Phoneticians** at the University of Kent.
 
-## 7. PhD Supervision
+## Taught modules
+
+*All modules are MA-level courses taught to students of __Linguistics__, __Speech & Language Processing__, and __Multilingualism__ at the University of Konstanz.*  
+
+- **Statistics** (2021+, every semester) — introduction to R, linear regression, linear mixed models, logistic regression, and analysis of experimental data.
+
+- **Advanced Statistics** (2021+) — non-linear modeling (GAMMs) and exploratory methods including cluster analysis, factor analysis, and random forests.
+
+- **Pupillometry** (2026, with Yining Yan) — hands-on course on pupillometry for cognitive and language-related tasks.
+
+- **Introduction to Forensic Speech Science** (2023, 2025) — phonetic analysis for forensic tasks such as speaker comparison and speaker profiling.
+
+- **Eye-tracking and Pupillometry** (2024, with Dr. Ilaria Venagli) — both methods applied to the study of language, with strong practical focus.
+
+## PhD Supervision
 
 - (2026-) Co-supervisor of Ms. Yining Yan, PhD-candidate in the LiVV (Lifting the Veil of Violence) project funded by the Cluster of Excellence on the study of Inequality, at the University of Konstanz. First supervisor: Prof. Dr. Tanja Kupisch.
 
-## 8. Awards
+## Awards
 
 - (2025) **Canzi, M**, Cavaglià, S.: Chessable Research Awards 2025 for: "Synchronicity in gaze patterns, pupil dilation and heart rate patterns during blitz chess".
 
 - (2018) Coretta, S., & **Canzi, M.** (joint winners) of **Best Student Abstract** submitted to the LAGB 2018 conference: The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling.
 
-## 09. Service
+## Service
 
 **Department of Linguistics, Universität Konstanz**
 
