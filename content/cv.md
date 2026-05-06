@@ -36,6 +36,10 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
+- (Sbmt) Li, J., Ong, J., Wang, L., **Canzi, M.**, Wang, W., Jiang, C., & Liu, F.. Musical ability and training shape mental representations of linguistic and musical pitch contours. **[DC FA V W]**
+
+- (Acpt) Rossi, M., **Canzi, M.**, & Rathcke, T.. Phoneme monitoring in developmental dyslexia: Pupillometric evidence for cognitive rather than acoustic origins of phonological deficits. *Brain Sciences* **[DC FA M V]**
+
 - (2026) Rathcke, T., & **Canzi, M.**. Individual differences in musical melody perception moderate the speech-to-song illusion in Mandarin Chinese listeners. *Scientific Reports* **[DC FA V]**
 
 - (2025) Tagliani, M., Cruz, L., Redolfi, M., Shirokorad, N., **Canzi, M.**, Melloni, C., & Vender, M. L2 learners take more time to catch the rhyme: An eye-tracking study on predictive processing. *International Journal of Bilingualism* **[DC FA V W]**
@@ -56,7 +60,7 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2023) Brehmer, B., Sopata, A., & **Canzi, M.** [Same or different? Subject realization in the majority and heritage language of Polish-German bilingual children.](https://doi.org/10.1515/lingvan-2022-0061) *Linguistics Vanguard* **[DC FA V W]**
 
-- (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://doi.org/10.1016/j.specom.2022.11.007). *Speech Communication*, 146, 70-81. **[DC FA V W]**
+- (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://doi.org/10.1016/j.specom.2022.11.007). *Speech Communication*, 146, 70-81 **[DC FA V W]**
 
 - (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
 
