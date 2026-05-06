@@ -87,50 +87,50 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 *"*" indicates presenting authors for multi-authored presentations
 
-- (2026) **Canzi, M**. Pupillometry for the study of language (and beyond). Invited talk at the Manchester Forum in Linguistics, University of Manchester [01.05]
+- (2026) **Canzi, M**. Pupillometry for the study of language (and beyond). Invited talk at the Manchester Forum in Linguistics [University of Manchester, UK] [01.05]
 
-- (2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series.
+- (2025, 2024) **\*Canzi, M.** & \*Venagli, I. Data visualisation with ggplot2 in R. Graduate workshop taught at the Konstanz Methods Excellence Workshop series [Universität Konstanz, DE]
 
-- (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Invited graduate workshop taught at the Frankfurt Peace Research Institute [01.12-02.12]
+- (2025) **Canzi, M.** Introduction to data visualisation in R with ggplot2. Invited graduate workshop taught at the Frankfurt Peace Research Institute [University of Frankfurt, DE] [01.12-02.12]
 
-- (2024) **Canzi, M.** Introduction to Statistics with R. MA-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona. [02.12-06.12]
+- (2024) **Canzi, M.** Introduction to Statistics with R. MA-level, 8-hour workshop taught at the Department of Culture and Civilization [University of Verona, IT] [02.12-06.12]
 
-- (2024) **Canzi, M.** Data Manipulation and Visualisation in R. PhD-level, 8-hour workshop taught at the Department of Culture and Civilization, University of Verona. [20.05-24.05]
+- (2024) **Canzi, M.** Data Manipulation and Visualisation in R. PhD-level, 8-hour workshop taught at the Department of Culture and Civilization [University of Verona, IT] [20.05-24.05]
 
-- (2023) **Canzi, M.** Topics in Quantitative Methods. PhD-level, 11-hour workshop taught at the Department of Culture and Civilization, University of Verona. [06.06-08.06]
+- (2023) **Canzi, M.** Topics in Quantitative Methods. PhD-level, 11-hour workshop taught at the Department of Culture and Civilization [University of Verona, IT] [06.06-08.06]
 
-- (2022) **Canzi, M.** Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department at Universität Konstanz.
+- (2022) **Canzi, M.** Good and Bad Habits in Quantitative and Experimental Linguistics Research. Workshop taught online in the linguistics department [Universität Konstanz, DE]
 
-- (2021) **Canzi, M.** [Looking for the Phonological Mapping Negativity (in all the wrong places)](https://www.icloud.com/iclouddrive/0fcyc5N1Bh-vgL4OwZAl5I8QA#2021_unikon). Invited talk presented at the **Linguistics Department Research Colloquium**, Universität Konstanz.
+- (2021) **Canzi, M.** Looking for the Phonological Mapping Negativity (in all the wrong places). Invited talk presented at the Linguistics Department Research Colloquium [Universität Konstanz, DE]
 
-- (2021) \*Rathcke, T., & **\*Canzi, M.** [Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English](https://www.icloud.com/iclouddrive/066OD9mrYDnBG19gIZyzqAkoQ#LEL_slides). Invited talk presented at the **Linguistics and English Language** (LEL) **Summer Seminars** at the University of Manchester.
+- (2021) \*Rathcke, T., & **\*Canzi, M.** [Deaf by face mask? Impact of community masks on the perception of voiceless fricatives in English. Invited talk presented at the Linguistics and English Language (LEL) Summer Seminars [University of Manchester, UK]
 
-- (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Invited talk presented at the **Glasgow University Laboratory of Phonetics**.
+- (2019) **Canzi, M.** Don’t let me be misunderstood: exploring early phonological and lexical processing in auditory perception. Invited talk presented at the Laboratory of Phonetics [University of Glasgow, UK]
 
 ## Selected Presentations
 
-- (2025) Wang, L., **Canzi, M.**, & Liu, F. (2025). Mental representations of pitch contours in speech and complex tones change with age in non-autistic individuals but remain stable in autistic individuals. Poster presented at Auditory Science Meeting, Nottingham Trent University, UK
+- (2025) Wang, L., **Canzi, M.**, & \*Liu, F. (2025). Mental representations of pitch contours in speech and complex tones change with age in non-autistic individuals but remain stable in autistic individuals. Poster presented at Auditory Science Meeting [Nottingham Trent University, UK]
 
-- (2025) Ong, J. Canzi, M., & Liu, F. (2025). Mental representations of speech and song reveal language-specific and universal pitch and duration patterns in English and Mandarin listeners. Talk presented at Auditory Science Meeting, Nottingham Trent University, UK
+- (2025) \*Ong, J. **Canzi, M.**, & Liu, F. (2025). Mental representations of speech and song reveal language-specific and universal pitch and duration patterns in English and Mandarin listeners. Talk presented at Auditory Science Meeting [Nottingham Trent University, UK]
 
-- (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** [Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language.](https://doi.org/10.3758/s13414-024-02893-8) Poster accepted at AMLaP 2024 (Edinburgh, UK)
+- (2024) \*Rathcke, T., Smit, E., Yue, R., & **Canzi, M.** Synchronised movement and individual rhythmic skill influence the perception of temporal structure in spoken language. Poster presented at AMLaP 2024 [University of Edinburgh, UK]
 
-- (2024) \*Link, P.M., **Canzi, M**, & Rathcke, T. Individual differences in sensorimotor synchronization and pupillometry. Poster accepted at AMLaP 2024 (Edinburgh, UK)
+- (2024) \*Link, P.M., **Canzi, M**, & Rathcke, T. Individual differences in sensorimotor synchronization and pupillometry. Poster presented at AMLaP 2024 [University of Edinburgh, UK]
 
-- (2024) \*Wang, L., Ong, J., **Canzi, M**., Jiang, C., & \*Liu, F. Mental representations of speech and musical pitch contours show reduced pitch ranges in congenital amusia. The 7th bi-annual European Society for Cognitive and Affective Neuroscience (ESCAN) meeting, May 22-25, 2024, Ghent, Belgium.
+- (2024) \*Wang, L., Ong, J., **Canzi, M**., Jiang, C., & \*Liu, F. Mental representations of speech and musical pitch contours show reduced pitch ranges in congenital amusia. Talk presented at the 7th bi-annual European Society for Cognitive and Affective Neuroscience (ESCAN) meeting [University of Ghent, Belgium]
 
-- (2023) \***Canzi, M**, & Rathcke, T. Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at *ICPhS 2023*.
+- (2023) \***Canzi, M**, & Rathcke, T. Unmasking the truth: Impact of community masks on the perception of voiceless fricatives in English. Talk presented at ICPhS 2023 [University of Prague, CZ]
 
-- (2022) \*Tsaroucha, A., Rathcke, T., & **Canzi, M.** [Effects of a face mask on the perception of English fricatives by native speakers of Greek](https://mcanzi.github.io/project/icgl15/). Talk presented at the **15th International Conference on Greek Linguistics** (ICGL15).
+- (2022) \*Tsaroucha, A., Rathcke, T., & **Canzi, M.** Effects of a face mask on the perception of English fricatives by native speakers of Greek. Talk presented at the 15th International Conference on Greek Linguistics (ICGL15) [University of Belgrade, SR]
 
-- (2021) \*Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](https://mcanzi.github.io/project/urdu/). Talk presented at **Interspeech 2021** at the University of Brno.
+- (2021) \*Mumtaz, B., **Canzi, M.**, & Butt, M. Prosody of Case Markers in Urdu. Talk presented at Interspeech 2021 [University of Brno, CZ]
 
-- (2018) \*Coretta, S., & **\*Canzi, M.** [The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling](https://mcanzi.github.io/project/glottaling/). Talk presented at the **Linguistic Association of Great Britain** at the University of Sheffield.
+- (2018) \*Coretta, S., & **\*Canzi, M.** The effect of lexical frequency on vowel phonation as a correlate of /t/- glottaling. Talk presented at the Linguistic Association of Great Britain (LAGB) [University of Sheffield, UK]
 
 - (2018) **Canzi, M.** The Forensic implications of comparing soft, neutral and loud speech.
-Talk presented at the *Manchester Forum in Linguistics* at The University of Manchester.
+Talk presented at the Manchester Forum in Linguistics [University of Manchester, UK]
 
-- (2018) **Canzi, M.** [A quantitative analysis of inter- and intra-speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italian](https://mcanzi.github.io/project/forensic/). Poster presented at the **British Association of Academic Phoneticians** at the University of Kent.
+- (2018) **Canzi, M.** A quantitative analysis of inter- and intra-speaker variation of f-pattern and vowel duration in soft, neutral and loud speech in Italia. Poster presented at the British Association of Academic Phoneticians (BAAP) [University of Kent, UK]
 
 ## Taught modules
 
