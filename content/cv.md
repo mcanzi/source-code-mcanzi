@@ -36,10 +36,6 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
 
-- (Sbmt) Li, J., Ong, J., Wang, L., **Canzi, M.**, Wang, W., Jiang, C., & Liu, F.. Musical ability and training shape mental representations of linguistic and musical pitch contours. **[DC FA V W]**
-
-- (Acpt) Rossi, M., **Canzi, M.**, & Rathcke, T.. Phoneme monitoring in developmental dyslexia: Pupillometric evidence for cognitive rather than acoustic origins of phonological deficits. *Brain Sciences* **[DC FA M V]**
-
 - (2026) Rathcke, T., & **Canzi, M.**. Individual differences in musical melody perception moderate the speech-to-song illusion in Mandarin Chinese listeners. *Scientific Reports* **[DC FA V]**
 
 - (2025) Tagliani, M., Cruz, L., Redolfi, M., Shirokorad, N., **Canzi, M.**, Melloni, C., & Vender, M. L2 learners take more time to catch the rhyme: An eye-tracking study on predictive processing. *International Journal of Bilingualism* **[DC FA V W]**
