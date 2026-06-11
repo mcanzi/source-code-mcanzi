@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     post = "/:year/:month/:day/:slug/"
 [params]
     author = "massimiliano canzi"
-    description = "massimiliano canzi | data scientist & laboratory manager at universität konstanz"
+    description = "massimiliano canzi | data scientist & lab manager at universität konstanz"
     logo = "photos/0H2A9277.jpg"
     #twitterAuthor = "@mc_anzi"
     githubUsername = "mcanzi"

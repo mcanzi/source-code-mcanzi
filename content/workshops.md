@@ -10,7 +10,7 @@ Since 2022, I have designed and delivered workshops on quantitative methods, dat
 
 I have taught multi-day workshops at the University of Verona's Department of Cultures and Civilizations, covering topics from introductory statistics to advanced data manipulation and visualisation in R for both MA and PhD students. I have been a recurring instructor at the Konstanz Methods Excellence Workshops (KOMEX), an internationally recognised methods training programme hosted by the University of Konstanz's Department of Politics and Public Administration, where I co-teach data visualisation with ggplot2 to a predominantly social science audience. In 2025, I delivered a workshop on data visualisation in R at the Peace Research Institute Frankfurt (PRIF), one of Europe's leading peace and conflict research institutes and a member of the Leibniz Association, where my audience consisted primarily of political scientists and conflict researchers rather than linguists. In May 2026, I will be giving an invited talk on pupillometry at the Manchester Forum in Linguistics, an annual conference for early-career researchers at the University of Manchester. I also regularly give talks and workshops within the Department of Linguistics at Konstanz, including sessions on best practices in quantitative and experimental research.
 
----
+## <p align="center">~</p>
 
 **"\*"** indicates presenting authors for multi-authored workshops
 

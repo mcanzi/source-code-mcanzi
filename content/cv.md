@@ -32,6 +32,8 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 
 - (2012-2015) **BA in Foreign Languages and Literature** at Università degli Studi di Milano, IT
 
+## <p align="center">~</p>
+
 ## Publications
 
 **C**: Conceptualisation; **DC**: Data Curation; **FA**: Formal Analysis; **I**: Investigation; **M**: Methods; **S**: Software; **SU**: Supervision; **V**: Visualisation; **W**: Writing
@@ -59,6 +61,8 @@ __Summary__: Formally trained in quantitative research in phonetics and speech s
 - (2023) Ulbrich, C., & **Canzi, M.** [Intonational alignment in second language acquisition](https://doi.org/10.1016/j.specom.2022.11.007). *Speech Communication*, 146, 70-81 **[DC FA V W]**
 
 - (2021) Mumtaz, B., **Canzi, M.**, & Butt, M. [Prosody of Case Markers in Urdu](). *Proc. Interspeech 2021*, 2661-2665 **[DC FA V]**
+
+## <p align="center">~</p>
 
 ## Skills
 
