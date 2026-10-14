@@ -188,10 +188,6 @@ _Kagoshima, Japan__ (2024); Leica MP + Leica 28 mm _f_/2 Summicron + Kodak Visio
 
 __Sirkka, Finland__ (2024); Sony A7S III + FE 16-35 mm _f_/2.8 GM
 
-![](/img/photos/A7S09141-Enhanced-NR.jpg)
-
-__Sirkka, Finland__ (2024); Sony A7S III + FE 16-35 mm _f_/2.8 GM
-
 ![](/img/photos/021_FULL_01_XXX%20LIGHTROOM.jpg)
 
 __Sirkka, Finland__ (2024); Leica MP + Leica 28 mm _f_/2 Summicron + Kodak Vision3 50D
